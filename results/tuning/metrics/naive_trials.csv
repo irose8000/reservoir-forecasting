@@ -1,0 +1,2 @@
+model,trial,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+naive,0,47.06750059732708,1.00000761449337e-06,0.015010400005849078,0

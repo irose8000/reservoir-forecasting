@@ -1,0 +1,32 @@
+# Declares the forecast package and its dependencies
+# This way, pip install from forecast works for scripts and notebooks
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forecast"
+version = "0.1.0"
+description = "Neural vs traditional methods for SA reservoir volume forecasting"
+
+#Using python 3.15, pyyaml wasn't available. Went with python 3.12 instead.
+requires-python = ">=3.10,<3.15" 
+
+dependencies = [
+    "pandas>=3",
+    "numpy",
+    "pyyaml",
+    "requests",
+    "matplotlib",
+    "statsmodels",
+    "joblib",
+    "scikit-learn",   # MLR, SVR, scalers
+    "torch",          # FFNN, LSTM
+]
+
+[project.optional-dependencies]
+dev = ["jupyter", "ipykernel"]
+
+[tool.setuptools.packages.find]
+include = ["forecast*"]

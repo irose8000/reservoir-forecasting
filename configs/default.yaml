@@ -1,0 +1,19 @@
+# Holds every adjustable setting
+# This way, nothing is hard-coded.
+# forecast/configure.py calls these configs
+
+seed: 42
+
+splits:
+  train_end: 2024-04-30
+  val_end: 2025-07-31
+
+models:
+  # which models the scripts run (in order), and each model's default settings.
+  run: [naive, sarima, mlr, svr]
+  naive:  {n_lags: 2, n_rain_lags: 2}
+  sarima: {n_lags: 2, n_rain_lags: 2, order: [1, 1, 1], seasonal_order: [1, 0, 0, 12]}
+  mlr:    {n_lags: 2, n_rain_lags: 2}
+  svr:    {n_lags: 2, n_rain_lags: 2, kernel: rbf, C: 1.0, epsilon: 0.01, gamma: scale}
+  ffnn:   {n_lags: 2, n_rain_lags: 2}
+  lstm:   {n_lags: 2, n_rain_lags: 2}

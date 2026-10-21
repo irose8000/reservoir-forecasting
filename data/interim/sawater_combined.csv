@@ -1,0 +1,1001 @@
+month,reservoir,date,capacity_ml,volume_ml,volume_last_year_ml,avg_volume_month_ml,latitude,longitude,source_file
+2018-05-31,Barossa Reservoir,2018-05-31,4375,4120.57,4030.01,4076.05,-34.65,138.85,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Barossa Reservoir,2018-07-02,4375,3575.34,4109.47,3585.53,-34.65,138.85,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Barossa Reservoir,2018-07-30,4375,3414.44,3996.31,3291.55,-34.65,138.85,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Barossa Reservoir,2018-08-31,4375,4131.31,4063.93,3970.49,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Barossa Reservoir,2018-09-29,4375,4088.4,4052.6,4078.47,-34.65,138.85,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Barossa Reservoir,2018-10-31,4375,4066.99,4132.38,4061.88,-34.65,138.85,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Barossa Reservoir,2018-11-30,4375,4131.31,4041.3,4071.69,-34.65,138.85,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Barossa Reservoir,2019-01-02,4375,4099.12,4132.38,4093.76,-34.65,138.85,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Barossa Reservoir,2019-01-31,4375,4099.12,4030.01,4078.83,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Barossa Reservoir,2019-02-28,4375,4131.31,4088.4,4086.93,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Barossa Reservoir,2019-03-31,4375.02,4045.61,4088.4,4094.71,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Barossa Reservoir,2019-04-30,4375.02,3960.42,4077.69,4097.05,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Barossa Reservoir,2019-05-31,4375.02,4045.61,4120.57,4074.98,-34.65,138.85,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Barossa Reservoir,2019-06-30,4375.02,3981.66,3626.38,4046.89,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Barossa Reservoir,2019-07-31,4375.02,4152.81,3474.33,3968.04,-34.65,138.85,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Barossa Reservoir,2019-09-02,4375.02,4120.57,4099.12,4125.94,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Barossa Reservoir,2019-09-30,4375.02,4034.93,4056.29,4094.51,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Barossa Reservoir,2019-12-02,4375.02,4066.99,4099.12,4077.69,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Barossa Reservoir,2020-01-01,4375.02,4131.31,4088.4,4131.31,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Barossa Reservoir,2020-02-03,4375.02,4056.29,4131.31,4084.85,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Barossa Reservoir,2020-03-10,4375.02,4013.6,4002.94,4070.24,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Barossa Reservoir,2020-03-31,4375.02,4099.12,4045.61,4098.19,-34.65,138.85,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Barossa Reservoir,2020-04-30,4375.02,4099.12,3960.42,4134.94,-34.65,138.85,reservoirvolumesforapril2020.csv
+2020-05-31,Barossa Reservoir,2020-05-31,4375.02,4109.84,4045.61,4110.22,-34.65,138.85,reservoirvolumesformay2020.csv
+2020-06-30,Barossa Reservoir,2020-06-30,4375.02,3802.36,3981.66,4034.66,-34.65,138.85,reservoirvolumesforjune2020.csv
+2020-07-31,Barossa Reservoir,2020-08-02,4375.02,4099.12,4099.12,4109.85,-34.65,138.85,reservoirvolumesforjuly2020.csv
+2020-08-31,Barossa Reservoir,2020-08-31,4375.02,4066.99,4099.12,4066.7,-34.65,138.85,reservoirvolumesforaugust2020.csv
+2020-09-30,Barossa Reservoir,2020-09-30,4375.02,4045.61,4034.93,4083.39,-34.65,138.85,reservoirvolumesforseptember2020.csv
+2020-10-31,Barossa Reservoir,2020-11-01,4375.02,4099.12,4034.93,4099.12,-34.65,138.85,reservoirvolumesforoctober2020.csv
+2020-11-30,Barossa Reservoir,2020-11-30,4375.02,4088.4,4099.12,4073.47,-34.65,138.85,reservoirvolumesfornovember2020.csv
+2020-12-31,Barossa Reservoir,2021-01-03,4375.02,4077.69,4034.93,4077.69,-34.65,138.85,reservoirvolumesfordecember2020.csv
+2021-01-31,Barossa Reservoir,2021-02-01,4375.02,3928.62,4109.84,3928.62,-34.65,138.85,reservoirvolumesforjanuary2021.csv
+2021-02-28,Barossa Reservoir,2021-03-01,4375.02,4109.84,4099.12,4109.84,-34.65,138.85,reservoir-volumes-for-february-2021.csv
+2021-03-31,Barossa Reservoir,2021-03-31,4375.02,4024.26,4099.12,4058.1,-34.65,138.85,reservoirvolumesformarch2021.csv
+2021-04-30,Barossa Reservoir,2021-04-30,4375.02,4142.06,4099.12,4070.62,-34.65,138.85,reservoirvolumesforapril2021.csv
+2021-05-31,Barossa Reservoir,2021-05-31,4375.02,4077.69,4109.84,4105.03,-34.65,138.85,reservoirvolumesformay2021.csv
+2021-06-30,Barossa Reservoir,2021-06-30,4375.02,4056.29,3802.36,4110.59,-34.65,138.85,reservoirvolumesforjune2021.csv
+2021-07-31,Barossa Reservoir,2021-08-01,4375.02,4131.31,4120.57,4131.31,-34.65,138.85,reservoirvolumesforjuly2021.csv
+2021-08-31,Barossa Reservoir,2021-08-31,4375.02,4088.4,4066.99,4128.44,-34.65,138.85,reservoirvolumesforaugust2021.csv
+2021-09-30,Barossa Reservoir,2021-09-30,4375.02,3896.92,4045.61,4001.28,-34.65,138.85,reservoirvolumesforseptember2021.csv
+2021-10-31,Barossa Reservoir,2021-11-01,4375.02,4034.93,4099.12,4034.93,-34.65,138.85,reservoirvolumesforoctober2021.csv
+2021-11-30,Barossa Reservoir,2021-11-30,4375.02,4066.99,4088.4,4069.21,-34.65,138.85,reservoirvolumesfornovember2021.csv
+2021-12-31,Barossa Reservoir,2022-01-11,4375.02,4152.81,3992.3,4094.31,-34.65,138.85,reservoirvolumesfordecember2021.csv
+2022-01-31,Barossa Reservoir,2022-01-31,4375.02,4088.4,3981.66,4078.82,-34.65,138.85,reservoirvolumesforjanuary2022.csv
+2022-02-28,Barossa Reservoir,2022-03-03,4375.02,4131.31,4024.26,4077.75,-34.65,138.85,reservoirvolumesforfebruary2022.csv
+2022-03-31,Barossa Reservoir,2022-04-04,4375.02,4066.99,4077.69,4077.7,-34.65,138.85,reservoirvolumesformarch2022.csv
+2022-04-30,Barossa Reservoir,2022-05-02,4375.02,4034.93,4109.84,4050.96,-34.65,138.85,reservoirvolumesforapril2022.csv
+2022-05-31,Barossa Reservoir,2022-05-31,4375.02,4045.61,4077.69,4057.42,-34.65,138.85,reservoirvolumesformay2022.csv
+2022-06-30,Barossa Reservoir,2022-06-30,4375.02,4034.93,4056.29,4039.25,-34.65,138.85,reservoirvolumesforjune2022.csv
+2022-07-31,Barossa Reservoir,2022-08-01,4375.02,4077.69,4131.31,4077.69,-34.65,138.85,reservoirvolumesjuly2022.csv
+2022-08-31,Barossa Reservoir,2022-08-31,4375.02,3992.3,4088.4,4070.16,-34.65,138.85,reservoirvolumesforaugust2022.csv
+2022-09-30,Barossa Reservoir,2022-09-30,4375.02,4142.06,3896.92,4066.32,-34.65,138.85,reservoirvolumesforseptermber2022.csv
+2022-10-31,Barossa Reservoir,2022-11-01,4375.02,4056.29,4034.93,4056.29,-34.65,138.85,reservoirvolumesforoctober2022.csv
+2022-11-30,Barossa Reservoir,2022-11-30,4375.02,4066.99,4066.99,4060.01,-34.65,138.85,reservoirvolumesfornovember2022.csv
+2022-12-31,Barossa Reservoir,2023-01-09,4375.02,3971.04,4088.4,4067.09,-34.65,138.85,reservoirvolumesfordecember2022.csv
+2023-01-31,Barossa Reservoir,2023-01-31,4375.02,4056.29,4088.4,4051.92,-34.65,138.85,reservoirvolumesforjanuary2023.csv
+2023-02-28,Barossa Reservoir,2023-02-28,4375.02,4013.6,3949.81,4079.3,-34.65,138.85,reservoirvolumesforfebruary2023.csv
+2023-03-31,Barossa Reservoir,2023-04-03,4375.02,4088.4,4066.99,4120.59,-34.65,138.85,reservoirvolumesformarch2023.csv
+2023-04-30,Barossa Reservoir,2023-05-01,4375.02,3981.66,4066.99,3981.66,-34.65,138.85,reservoirvolumesforapril2023.csv
+2023-05-31,Barossa Reservoir,2023-05-31,4375.02,4024.26,4045.61,4056.01,-34.65,138.85,reservoirvolumesformay2023.csv
+2023-06-30,Barossa Reservoir,2023-06-30,4375.02,4120.57,4034.93,4032.91,-34.65,138.85,reservoirvolumesforjune2023.csv
+2023-07-31,Barossa Reservoir,2023-07-31,4375.02,4066.99,4099.12,4026.79,-34.65,138.85,reservoirvolumesforjuly2023.csv
+2023-08-31,Barossa Reservoir,2023-08-31,4375.02,4066.99,3992.3,4057.42,-34.65,138.85,reservoirvolumesforaugust2023.csv
+2023-09-30,Barossa Reservoir,2023-10-03,4375.02,3949.81,4045.61,3949.81,-34.65,138.85,reservoirvolumesforseptember-2023.csv
+2023-10-31,Barossa Reservoir,2023-10-31,4375.02,4066.99,4056.29,4040,-34.65,138.85,reservoirvolumesforoctober2023.csv
+2023-11-30,Barossa Reservoir,2023-11-30,4375.02,4056.29,4066.99,3987.37,-34.65,138.85,reservoirvolumesfornovember2023.csv
+2024-01-31,Barossa Reservoir,2024-01-31,4375.02,4152.81,4056.29,4093.29,-34.65,138.85,reservoirvolumesforjanuary2024.csv
+2024-02-29,Barossa Reservoir,2024-02-29,4375.02,4045.61,4013.6,4063.75,-34.65,138.85,reservoirvolumesforfebruary2024.csv
+2024-03-31,Barossa Reservoir,2024-04-04,4375.02,4045.61,4034.93,4016.28,-34.65,138.85,reservoir-volumes-for-march-2024.csv
+2024-05-31,Barossa Reservoir,2024-05-31,4375.02,4066.99,4024.26,4046.71,-34.65,138.85,reservoirvolumesformay2024.csv
+2024-06-30,Barossa Reservoir,2024-06-30,4375.02,4002.94,4120.57,4075.98,-34.65,138.85,reservoirvolumesforjune2024.csv
+2024-08-31,Barossa Reservoir,2024-08-31,4375.02,4013.6,4066.99,4058.09,-34.65,138.85,reservoir-volumes-for-august-2024.csv
+2024-09-30,Barossa Reservoir,2024-09-30,4375.02,4024.26,4109.84,4020.54,-34.65,138.85,reservoirvolumesforseptember2024.csv
+2024-10-31,Barossa Reservoir,2024-10-31,4375.02,4099.12,4066.99,4056.71,-34.65,138.85,reservoir-volumes-for-october-2024.csv
+2025-01-31,Barossa Reservoir,2025-01-31,4375.02,4120.57,4152.81,4041.22,-34.65,138.85,reservoirvolumesforjanuary2025.csv
+2025-02-28,Barossa Reservoir,2025-02-28,4375.02,4120.57,4099.12,4106.05,-34.65,138.85,reservoirvolumesforfebruary2025.csv
+2025-03-31,Barossa Reservoir,2025-03-31,4375.02,4066.99,4034.93,4093.27,-34.65,138.85,reservoirvolumesformarch2025.csv
+2025-04-30,Barossa Reservoir,2025-04-30,4375.02,4077.69,4120.57,4080.6,-34.65,138.85,reservoirvolumesforapril2025.csv
+2025-05-31,Barossa Reservoir,2025-05-31,4375.02,4056.29,4066.99,4070.5,-34.65,138.85,reservoir-volumes-for-may-2025.csv
+2025-06-30,Barossa Reservoir,2025-06-30,4375.02,4034.93,4002.94,4083.25,-34.65,138.85,reservoir-volumes-for-june-2025.csv
+2025-07-31,Barossa Reservoir,2025-07-31,4375.02,4131.31,4034.93,4079.8,-34.65,138.85,reservoir-volumes-for-july-2025.csv
+2025-08-31,Barossa Reservoir,2025-08-31,4375.02,4024.26,4013.6,4068.41,-34.65,138.85,reservoir-volumes-for-august-2025.csv
+2025-09-30,Barossa Reservoir,2025-09-30,4375.02,4099.12,4024.26,4071.31,-34.65,138.85,reservoir-volumes-for-september-2025.csv
+2025-10-31,Barossa Reservoir,2025-10-31,4375.02,4013.6,4099.12,4069.12,-34.65,138.85,reservoir-volumes-for-october-2025.csv
+2025-11-30,Barossa Reservoir,2025-11-30,4375.02,4088.4,3981.66,4079.9,-34.65,138.85,reservoir-volumes-for-november-2025.csv
+2025-12-31,Barossa Reservoir,2025-12-31,4375.02,4099.12,4088.4,4063.8,-34.65,138.85,reservoir-volumes-for-december-2025.csv
+2026-01-31,Barossa Reservoir,2026-01-31,4375.02,4013.6,4120.57,4074.65,-34.65,138.85,reservoir-volumes-for-january-2026.csv
+2026-02-28,Barossa Reservoir,2026-02-28,4375.02,3992.3,4120.57,4042.98,-34.65,138.85,reservoir-volumes-for-february-2026.csv
+2026-03-31,Barossa Reservoir,2026-03-31,4375.02,4024.26,4066.99,4023.63,-34.65,138.85,reservoir-volumes-for-march-2026.csv
+2026-04-30,Barossa Reservoir,2026-04-30,4375.02,4131.31,4077.69,4069.55,-34.65,138.85,reservoir-volumes-for-april-2026.csv
+2026-05-31,Barossa Reservoir,2026-05-31,4375.02,3960.42,4056.29,4066.37,-34.65,138.85,reservoir-volumes-for-may-2026.csv
+2026-06-30,Barossa Reservoir,2026-06-30,4375.02,4056.29,4034.93,3870.24,-34.65,138.85,reservoirvolumesforjune2026.csv
+2026-07-31,Barossa Reservoir,2026-08-12,4375.02,4195.87,4045.61,4109.92,-34.65,138.85,reservoirvolumesforjuly2026.csv
+2026-08-31,Barossa Reservoir,2026-08-31,4375.02,4045.61,4024.26,4094.69,-34.65,138.85,reservoirvolumesforaugust2026.csv
+2026-09-30,Barossa Reservoir,2026-09-30,4375.02,3992.3,4099.12,4082.41,-34.65,138.85,reservoirvolumesforseptember2026.csv
+2018-05-31,Happy Valley Reservoir,2018-05-31,12650,10192.38,10604.56,10181.22,-35.07,138.57,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Happy Valley Reservoir,2018-07-02,12650,10192.38,10163.28,10192.38,-35.07,138.57,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Happy Valley Reservoir,2018-07-30,12650,10723.95,10485.89,10481.06,-35.07,138.57,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Happy Valley Reservoir,2018-08-31,12650,10634.34,12568.34,10808,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Happy Valley Reservoir,2018-09-29,12650,10221.53,11862.43,10401.15,-35.07,138.57,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Happy Valley Reservoir,2018-10-31,12650,9846.15,10574.83,10040.99,-35.07,138.57,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Happy Valley Reservoir,2018-11-30,12650,9989.62,10367.94,9972.57,-35.07,138.57,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Happy Valley Reservoir,2019-01-02,12650,9989.62,10367.94,10004.04,-35.07,138.57,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Happy Valley Reservoir,2019-01-31,12650,9932.1,10338.57,9986.19,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Happy Valley Reservoir,2019-02-28,12650,9932.1,10309.24,9974.51,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Happy Valley Reservoir,2019-03-31,12598.36,10163.28,10018.45,10032.72,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Happy Valley Reservoir,2019-04-30,12598.36,10134.22,10279.96,10156.59,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Happy Valley Reservoir,2019-05-31,12598.36,10279.96,10192.38,10132.6,-35.07,138.57,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Happy Valley Reservoir,2019-06-30,12598.36,10367.94,10192.38,10080.48,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Happy Valley Reservoir,2019-07-31,12598.36,11548.68,10753.91,11420.34,-35.07,138.57,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Happy Valley Reservoir,2019-09-02,12598.36,9932.1,10694.04,9817.96,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Happy Valley Reservoir,2019-09-30,12598.36,10545.13,10163.28,10478.13,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Happy Valley Reservoir,2019-12-02,12598.36,10279.96,9932.1,10236.17,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Happy Valley Reservoir,2020-01-01,12598.36,10163.28,10018.5,10163.28,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Happy Valley Reservoir,2020-02-03,12598.36,10309.24,9903.4,10163.6,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Happy Valley Reservoir,2020-03-10,12598.36,10456.34,10018.45,10216.34,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Happy Valley Reservoir,2020-03-31,12598.36,9960.84,10163.28,10349.01,-35.07,138.57,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Happy Valley Reservoir,2020-04-30,12598.36,12535.79,10134.22,11221.84,-35.07,138.57,reservoirvolumesforapril2020.csv
+2020-05-31,Happy Valley Reservoir,2020-05-31,12598.36,12568.34,10279.96,12549.03,-35.07,138.57,reservoirvolumesformay2020.csv
+2020-06-30,Happy Valley Reservoir,2020-06-30,12598.36,10250.72,10367.94,11953.03,-35.07,138.57,reservoirvolumesforjune2020.csv
+2020-07-31,Happy Valley Reservoir,2020-08-02,12598.36,10221.53,11362.58,10177.88,-35.07,138.57,reservoirvolumesforjuly2020.csv
+2020-08-31,Happy Valley Reservoir,2020-08-31,12598.36,11300.91,9450.49,11132.74,-35.07,138.57,reservoirvolumesforaugust2020.csv
+2020-09-30,Happy Valley Reservoir,2020-09-30,12598.36,11116.96,10545.13,11447.51,-35.07,138.57,reservoirvolumesforseptember2020.csv
+2020-10-31,Happy Valley Reservoir,2020-11-01,12598.36,10338.57,10485.89,10338.57,-35.07,138.57,reservoirvolumesforoctober2020.csv
+2020-11-30,Happy Valley Reservoir,2020-11-30,12598.36,10221.53,10134.22,10256.81,-35.07,138.57,reservoirvolumesfornovember2020.csv
+2020-12-31,Happy Valley Reservoir,2021-01-03,12598.36,10192.38,10192.38,10192.38,-35.07,138.57,reservoirvolumesfordecember2020.csv
+2021-01-31,Happy Valley Reservoir,2021-02-01,12598.36,11579.86,10047.33,11579.86,-35.07,138.57,reservoirvolumesforjanuary2021.csv
+2021-02-28,Happy Valley Reservoir,2021-03-01,12598.36,10221.53,10047.33,10221.53,-35.07,138.57,reservoir-volumes-for-february-2021.csv
+2021-03-31,Happy Valley Reservoir,2021-03-31,12598.36,10338.57,9960.84,10292.48,-35.07,138.57,reservoirvolumesformarch2021.csv
+2021-04-30,Happy Valley Reservoir,2021-04-30,12598.36,10397.36,12535.79,10245.28,-35.07,138.57,reservoirvolumesforapril2021.csv
+2021-05-31,Happy Valley Reservoir,2021-05-31,12598.36,10309.24,12568.34,10294.17,-35.07,138.57,reservoirvolumesformay2021.csv
+2021-06-30,Happy Valley Reservoir,2021-06-30,12598.36,10250.72,10250.72,10283.93,-35.07,138.57,reservoirvolumesforjune2021.csv
+2021-07-31,Happy Valley Reservoir,2021-08-01,12598.36,10397.36,10134.22,10397.36,-35.07,138.57,reservoirvolumesforjuly2021.csv
+2021-08-31,Happy Valley Reservoir,2021-08-31,12598.36,10134.22,11300.91,10212.42,-35.07,138.57,reservoirvolumesforaugust2021.csv
+2021-09-30,Happy Valley Reservoir,2021-09-30,12598.36,10192.38,11116.96,10252.74,-35.07,138.57,reservoirvolumesforseptember2021.csv
+2021-10-31,Happy Valley Reservoir,2021-11-01,12598.36,10367.94,10338.57,10367.94,-35.07,138.57,reservoirvolumesforoctober2021.csv
+2021-11-30,Happy Valley Reservoir,2021-11-30,12598.36,9846.15,10221.53,9861.63,-35.07,138.57,reservoirvolumesfornovember2021.csv
+2021-12-31,Happy Valley Reservoir,2022-01-11,12598.36,10018.45,9846.15,10098.36,-35.07,138.57,reservoirvolumesfordecember2021.csv
+2022-01-31,Happy Valley Reservoir,2022-01-31,12598.36,10279.96,11393.49,10204.37,-35.07,138.57,reservoirvolumesforjanuary2022.csv
+2022-02-28,Happy Valley Reservoir,2022-03-03,12598.36,10221.53,10250.72,10270.24,-35.07,138.57,reservoirvolumesforfebruary2022.csv
+2022-03-31,Happy Valley Reservoir,2022-04-04,12598.36,9903.4,10192.38,9910.6,-35.07,138.57,reservoirvolumesformarch2022.csv
+2022-04-30,Happy Valley Reservoir,2022-05-02,12598.36,10723.95,10338.57,10708.99,-35.07,138.57,reservoirvolumesforapril2022.csv
+2022-05-31,Happy Valley Reservoir,2022-05-31,12598.36,10279.96,10309.24,10208.59,-35.07,138.57,reservoirvolumesformay2022.csv
+2022-06-30,Happy Valley Reservoir,2022-06-30,12598.36,11579.86,10250.72,10378.68,-35.07,138.57,reservoirvolumesforjune2022.csv
+2022-07-31,Happy Valley Reservoir,2022-08-01,12598.36,9960.84,10397.36,9960.84,-35.07,138.57,reservoirvolumesjuly2022.csv
+2022-08-31,Happy Valley Reservoir,2022-08-31,12598.36,10047.33,10134.22,10159.19,-35.07,138.57,reservoirvolumesforaugust2022.csv
+2022-09-30,Happy Valley Reservoir,2022-09-30,12598.36,10604.56,10192.38,10217.21,-35.07,138.57,reservoirvolumesforseptermber2022.csv
+2022-10-31,Happy Valley Reservoir,2022-11-01,12598.36,11300.91,10367.94,11300.91,-35.07,138.57,reservoirvolumesforoctober2022.csv
+2022-11-30,Happy Valley Reservoir,2022-11-30,12598.36,10338.57,9846.15,10677.63,-35.07,138.57,reservoirvolumesfornovember2022.csv
+2022-12-31,Happy Valley Reservoir,2023-01-09,12598.36,9989.62,10338.57,10079.59,-35.07,138.57,reservoirvolumesfordecember2022.csv
+2023-01-31,Happy Valley Reservoir,2023-01-31,12598.36,9989.62,10279.96,10058.74,-35.07,138.57,reservoirvolumesforjanuary2023.csv
+2023-02-28,Happy Valley Reservoir,2023-02-28,12598.36,10279.96,10250.72,10049.98,-35.07,138.57,reservoirvolumesforfebruary2023.csv
+2023-03-31,Happy Valley Reservoir,2023-04-03,12598.36,10192.38,9903.4,10299.66,-35.07,138.57,reservoirvolumesformarch2023.csv
+2023-04-30,Happy Valley Reservoir,2023-05-01,12598.36,10134.22,10694.04,10134.22,-35.07,138.57,reservoirvolumesforapril2023.csv
+2023-05-31,Happy Valley Reservoir,2023-05-31,12598.36,10250.72,10279.96,10096.13,-35.07,138.57,reservoirvolumesformay2023.csv
+2023-06-30,Happy Valley Reservoir,2023-06-30,12598.36,10279.96,11579.86,10231.06,-35.07,138.57,reservoirvolumesforjune2023.csv
+2023-07-31,Happy Valley Reservoir,2023-07-31,12598.36,10338.57,9989.62,10191.92,-35.07,138.57,reservoirvolumesforjuly2023.csv
+2023-08-31,Happy Valley Reservoir,2023-08-31,12598.36,10192.38,10047.33,10210.9,-35.07,138.57,reservoirvolumesforaugust2023.csv
+2023-09-30,Happy Valley Reservoir,2023-10-03,12598.36,9989.62,10694.04,9989.62,-35.07,138.57,reservoirvolumesforseptember-2023.csv
+2023-10-31,Happy Valley Reservoir,2023-10-31,12598.36,10163.28,11270.14,10154.21,-35.07,138.57,reservoirvolumesforoctober2023.csv
+2023-11-30,Happy Valley Reservoir,2023-11-30,12598.36,10163.28,10338.57,10007.39,-35.07,138.57,reservoirvolumesfornovember2023.csv
+2024-01-31,Happy Valley Reservoir,2024-01-31,12598.36,10604.56,9989.62,10320.12,-35.07,138.57,reservoirvolumesforjanuary2024.csv
+2024-02-29,Happy Valley Reservoir,2024-02-29,12598.36,10134.22,10279.96,10398.16,-35.07,138.57,reservoirvolumesforfebruary2024.csv
+2024-03-31,Happy Valley Reservoir,2024-04-04,12598.36,10192.38,10105.21,10163.38,-35.07,138.57,reservoir-volumes-for-march-2024.csv
+2024-05-31,Happy Valley Reservoir,2024-05-31,12598.36,10338.57,10250.72,10171.32,-35.07,138.57,reservoirvolumesformay2024.csv
+2024-06-30,Happy Valley Reservoir,2024-06-30,12598.36,10279.96,10279.96,10183.72,-35.07,138.57,reservoirvolumesforjune2024.csv
+2024-08-31,Happy Valley Reservoir,2024-08-31,12598.36,10163.28,10192.38,10316.98,-35.07,138.57,reservoir-volumes-for-august-2024.csv
+2024-09-30,Happy Valley Reservoir,2024-09-30,12598.36,10250.72,10047.33,10181.89,-35.07,138.57,reservoirvolumesforseptember2024.csv
+2024-10-31,Happy Valley Reservoir,2024-10-31,12598.36,11424.44,10163.28,11557.81,-35.07,138.57,reservoir-volumes-for-october-2024.csv
+2025-01-31,Happy Valley Reservoir,2025-01-31,12598.36,10545.13,10604.56,10719.75,-35.07,138.57,reservoirvolumesforjanuary2025.csv
+2025-02-28,Happy Valley Reservoir,2025-02-28,12598.36,10221.53,10105.21,10220.82,-35.07,138.57,reservoirvolumesforfebruary2025.csv
+2025-03-31,Happy Valley Reservoir,2025-03-31,12598.36,10134.22,10134.22,10092.6,-35.07,138.57,reservoirvolumesformarch2025.csv
+2025-04-30,Happy Valley Reservoir,2025-04-30,12598.36,10485.89,9989.62,10168.51,-35.07,138.57,reservoirvolumesforapril2025.csv
+2025-05-31,Happy Valley Reservoir,2025-05-31,12598.36,10105.21,10338.57,10103.9,-35.07,138.57,reservoir-volumes-for-may-2025.csv
+2025-06-30,Happy Valley Reservoir,2025-06-30,12598.36,10250.72,10279.96,10127.02,-35.07,138.57,reservoir-volumes-for-june-2025.csv
+2025-07-31,Happy Valley Reservoir,2025-07-31,12598.36,10338.57,10309.24,10256.59,-35.07,138.57,reservoir-volumes-for-july-2025.csv
+2025-08-31,Happy Valley Reservoir,2025-08-31,12598.36,10426.83,10163.28,10435.71,-35.07,138.57,reservoir-volumes-for-august-2025.csv
+2025-09-30,Happy Valley Reservoir,2025-09-30,12598.36,10397.36,10250.72,10383.96,-35.07,138.57,reservoir-volumes-for-september-2025.csv
+2025-10-31,Happy Valley Reservoir,2025-10-31,12598.36,10338.57,11424.44,10391.96,-35.07,138.57,reservoir-volumes-for-october-2025.csv
+2025-11-30,Happy Valley Reservoir,2025-11-30,12598.36,10574.83,10047.33,10283.24,-35.07,138.57,reservoir-volumes-for-november-2025.csv
+2025-12-31,Happy Valley Reservoir,2025-12-31,12598.36,10367.94,10723.95,10529.43,-35.07,138.57,reservoir-volumes-for-december-2025.csv
+2026-01-31,Happy Valley Reservoir,2026-01-31,12598.36,10456.34,10545.13,10528.35,-35.07,138.57,reservoir-volumes-for-january-2026.csv
+2026-02-28,Happy Valley Reservoir,2026-02-28,12598.36,10426.83,10221.53,10626.21,-35.07,138.57,reservoir-volumes-for-february-2026.csv
+2026-03-31,Happy Valley Reservoir,2026-03-31,12598.36,10397.36,10134.22,10342.52,-35.07,138.57,reservoir-volumes-for-march-2026.csv
+2026-04-30,Happy Valley Reservoir,2026-04-30,12598.36,10426.83,10485.89,10218.13,-35.07,138.57,reservoir-volumes-for-april-2026.csv
+2026-05-31,Happy Valley Reservoir,2026-05-31,12598.36,10279.96,10105.21,10304.77,-35.07,138.57,reservoir-volumes-for-may-2026.csv
+2026-06-30,Happy Valley Reservoir,2026-06-30,12598.36,10221.53,10250.72,10280.14,-35.07,138.57,reservoirvolumesforjune2026.csv
+2026-07-31,Happy Valley Reservoir,2026-08-12,12598.36,10545.13,10604.56,10268.16,-35.07,138.57,reservoirvolumesforjuly2026.csv
+2026-08-31,Happy Valley Reservoir,2026-08-31,12598.36,11925.72,10426.83,11196.19,-35.07,138.57,reservoirvolumesforaugust2026.csv
+2026-09-30,Happy Valley Reservoir,2026-09-30,12598.36,10485.89,10397.36,11588.96,-35.07,138.57,reservoirvolumesforseptember2026.csv
+2018-05-31,Hope Valley Reservoir,2018-05-31,2935,2030.75,2646.43,2025.3,-34.85,138.69,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Hope Valley Reservoir,2018-07-02,2935,2021.86,2771.94,2021.86,-34.85,138.69,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Hope Valley Reservoir,2018-07-30,2935,2327.22,2084.6,2142.95,-34.85,138.69,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Hope Valley Reservoir,2018-08-31,2935,2646.43,2250.96,2751.48,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Hope Valley Reservoir,2018-09-29,2935,1740.82,2750.8,2217.07,-34.85,138.69,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Hope Valley Reservoir,2018-10-31,2935,2012.98,2595.06,1600.88,-34.85,138.69,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Hope Valley Reservoir,2018-11-30,2935,2346.51,2719.26,2501.91,-34.85,138.69,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Hope Valley Reservoir,2019-01-02,2935,2012.98,2878.93,2039.77,-34.85,138.69,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Hope Valley Reservoir,2019-01-31,2935,2656.77,2878.93,2170.67,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Hope Valley Reservoir,2019-02-28,2935,2503.99,2615.54,2575.84,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Hope Valley Reservoir,2019-03-31,2934.7,2066.56,2356.18,2597.96,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Hope Valley Reservoir,2019-04-30,2934.7,2708.79,2021.86,2504.59,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Hope Valley Reservoir,2019-05-31,2934.7,2404.9,2030.75,2436.02,-34.85,138.69,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Hope Valley Reservoir,2019-06-30,2934.7,2365.88,2021.86,2547.74,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Hope Valley Reservoir,2019-07-31,2934.7,2564.51,2346.51,2373.1,-34.85,138.69,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Hope Valley Reservoir,2019-09-02,2934.7,1968.95,2584.86,1968.95,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Hope Valley Reservoir,2019-09-30,2934.7,1333.25,1692.33,1623.13,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Hope Valley Reservoir,2019-12-02,2934.7,2761.36,2279.39,2729.85,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Hope Valley Reservoir,2020-01-01,2934.7,2740.27,2066.56,2740.27,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Hope Valley Reservoir,2020-02-03,2934.7,2846.61,2782.54,2828.79,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Hope Valley Reservoir,2020-03-10,2934.7,2260.42,2857.36,2299.61,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Hope Valley Reservoir,2020-03-31,2934.7,2395.11,2066.56,2289.09,-34.85,138.69,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Hope Valley Reservoir,2020-04-30,2934.7,2279.39,2708.79,2516.84,-34.85,138.69,reservoirvolumesforapril2020.csv
+2020-05-31,Hope Valley Reservoir,2020-05-31,2934.7,2157.65,2404.9,2135.36,-34.85,138.69,reservoirvolumesformay2020.csv
+2020-06-30,Hope Valley Reservoir,2020-06-30,2934.7,2574.67,2365.88,2643.44,-34.85,138.69,reservoirvolumesforjune2020.csv
+2020-07-31,Hope Valley Reservoir,2020-08-02,2934.7,2708.79,2454.17,2698.35,-34.85,138.69,reservoirvolumesforjuly2020.csv
+2020-08-31,Hope Valley Reservoir,2020-08-31,2934.7,2454.17,1968.95,2456.58,-34.85,138.69,reservoirvolumesforaugust2020.csv
+2020-09-30,Hope Valley Reservoir,2020-09-30,2934.7,2761.36,1333.24,2505.89,-34.85,138.69,reservoirvolumesforseptember2020.csv
+2020-10-31,Hope Valley Reservoir,2020-11-01,2934.7,2385.35,1831.79,2385.35,-34.85,138.69,reservoirvolumesforoctober2020.csv
+2020-11-30,Hope Valley Reservoir,2020-11-30,2934.7,2605.29,2646.43,2440.95,-34.85,138.69,reservoirvolumesfornovember2020.csv
+2020-12-31,Hope Valley Reservoir,2021-01-03,2934.7,2615.54,2803.81,2605.3,-34.85,138.69,reservoirvolumesfordecember2020.csv
+2021-01-31,Hope Valley Reservoir,2021-02-01,2934.7,2771.94,2793.17,2771.94,-34.85,138.69,reservoirvolumesforjanuary2021.csv
+2021-02-28,Hope Valley Reservoir,2021-03-01,2934.7,2503.99,2395.11,2503.99,-34.85,138.69,reservoir-volumes-for-february-2021.csv
+2021-03-31,Hope Valley Reservoir,2021-03-31,2934.7,2708.79,2395.11,2602.97,-34.85,138.69,reservoirvolumesformarch2021.csv
+2021-04-30,Hope Valley Reservoir,2021-04-30,2934.7,2544.25,2279.39,2736.84,-34.85,138.69,reservoirvolumesforapril2021.csv
+2021-05-31,Hope Valley Reservoir,2021-05-31,2934.7,2667.13,2157.65,2680.36,-34.85,138.68,reservoirvolumesformay2021.csv
+2021-06-30,Hope Valley Reservoir,2021-06-30,2934.7,2636.11,2574.67,2710.84,-34.85,138.68,reservoirvolumesforjune2021.csv
+2021-07-31,Hope Valley Reservoir,2021-08-01,2934.7,2434.39,2687.92,2434.39,-34.85,138.68,reservoirvolumesforjuly2021.csv
+2021-08-31,Hope Valley Reservoir,2021-08-31,2934.7,2434.39,2454.17,2535.34,-34.85,138.68,reservoirvolumesforaugust2021.csv
+2021-09-30,Hope Valley Reservoir,2021-09-30,2934.7,2793.17,2761.36,2488.44,-34.85,138.68,reservoirvolumesforseptember2021.csv
+2021-10-31,Hope Valley Reservoir,2021-11-01,2934.7,2544.25,2385.35,2544.25,-34.85,138.68,reservoirvolumesforoctober2021.csv
+2021-11-30,Hope Valley Reservoir,2021-11-30,2934.7,2595.06,2605.29,2530.57,-34.85,138.68,reservoirvolumesfornovember2021.csv
+2021-12-31,Hope Valley Reservoir,2022-01-11,2934.7,2646.43,2564.51,2711.76,-34.85,138.68,reservoirvolumesfordecember2021.csv
+2022-01-31,Hope Valley Reservoir,2022-01-31,2934.7,2708.79,2750.8,2687.4,-34.85,138.68,reservoirvolumesforjanuary2022.csv
+2022-02-28,Hope Valley Reservoir,2022-03-03,2934.7,2544.25,2524.07,2537.52,-34.85,138.68,reservoirvolumesforfebruary2022.csv
+2022-03-31,Hope Valley Reservoir,2022-04-04,2934.7,2793.17,2719.26,2801.17,-34.85,138.68,reservoirvolumesformarch2022.csv
+2022-04-30,Hope Valley Reservoir,2022-05-02,2934.7,2782.54,2564.51,2771.95,-34.85,138.68,reservoirvolumesforapril2022.csv
+2022-05-31,Hope Valley Reservoir,2022-05-31,2934.7,2825.17,2667.13,2805.33,-34.85,138.68,reservoirvolumesformay2022.csv
+2022-06-30,Hope Valley Reservoir,2022-06-30,2934.7,2534.15,2636.11,2614.67,-34.85,138.68,reservoirvolumesforjune2022.csv
+2022-07-31,Hope Valley Reservoir,2022-08-01,2934.7,2336.85,2434.39,2336.85,-34.85,138.68,reservoirvolumesjuly2022.csv
+2022-08-31,Hope Valley Reservoir,2022-08-31,2934.7,2166.88,2434.39,2271.07,-34.85,138.68,reservoirvolumesforaugust2022.csv
+2022-09-30,Hope Valley Reservoir,2022-09-30,2934.7,2250.96,2793.17,2257.03,-34.85,138.68,reservoirvolumesforseptermber2022.csv
+2022-10-31,Hope Valley Reservoir,2022-11-01,2934.7,2395.11,2544.25,2395.11,-34.85,138.68,reservoirvolumesforoctober2022.csv
+2022-11-30,Hope Valley Reservoir,2022-11-30,2934.7,2385.35,2595.06,2311.72,-34.85,138.68,reservoirvolumesfornovember2022.csv
+2022-12-31,Hope Valley Reservoir,2023-01-09,2934.7,2534.15,2761.36,2523.09,-34.85,138.68,reservoirvolumesfordecember2022.csv
+2023-01-31,Hope Valley Reservoir,2023-01-31,2934.7,2698.34,2708.79,2537.06,-34.85,138.68,reservoirvolumesforjanuary2023.csv
+2023-02-28,Hope Valley Reservoir,2023-02-28,2934.7,2346.51,2514.02,2380.15,-34.85,138.68,reservoirvolumesforfebruary2023.csv
+2023-03-31,Hope Valley Reservoir,2023-04-03,2934.7,2414.71,2825.17,2467.62,-34.85,138.68,reservoirvolumesformarch2023.csv
+2023-04-30,Hope Valley Reservoir,2023-05-01,2934.7,2327.22,2761.36,2327.22,-34.85,138.68,reservoirvolumesforapril2023.csv
+2023-05-31,Hope Valley Reservoir,2023-05-31,2934.7,2484,2825.17,2445.82,-34.85,138.68,reservoirvolumesformay2023.csv
+2023-06-30,Hope Valley Reservoir,2023-06-30,2934.7,2157.65,2534.15,2287.89,-34.85,138.68,reservoirvolumesforjune2023.csv
+2023-07-31,Hope Valley Reservoir,2023-07-31,2934.7,2336.85,2327.22,2391.88,-34.85,138.68,reservoirvolumesforjuly2023.csv
+2023-08-31,Hope Valley Reservoir,2023-08-31,2934.7,2250.96,2166.88,2398.94,-34.85,138.68,reservoirvolumesforaugust2023.csv
+2023-09-30,Hope Valley Reservoir,2023-10-03,2934.7,2395.11,2185.41,2395.11,-34.85,138.68,reservoirvolumesforseptember-2023.csv
+2023-10-31,Hope Valley Reservoir,2023-10-31,2934.7,2308.02,2444.27,2404.12,-34.85,138.68,reservoirvolumesforoctober2023.csv
+2023-11-30,Hope Valley Reservoir,2023-11-30,2934.7,2484,2385.35,2425.91,-34.85,138.68,reservoirvolumesfornovember2023.csv
+2024-01-31,Hope Valley Reservoir,2024-01-31,2934.7,2524.07,2698.34,2507.08,-34.85,138.68,reservoirvolumesforjanuary2024.csv
+2024-02-29,Hope Valley Reservoir,2024-02-29,2934.7,2554.37,2346.51,2453.4,-34.85,138.68,reservoirvolumesforfebruary2024.csv
+2024-03-31,Hope Valley Reservoir,2024-04-04,2934.7,2554.37,2356.18,2536.69,-34.85,138.68,reservoir-volumes-for-march-2024.csv
+2024-05-31,Hope Valley Reservoir,2024-05-31,2934.7,2464.09,2484,2414.87,-34.85,138.68,reservoirvolumesformay2024.csv
+2024-06-30,Hope Valley Reservoir,2024-06-30,2934.7,2365.88,2157.65,2416.83,-34.85,138.68,reservoirvolumesforjune2024.csv
+2024-08-31,Hope Valley Reservoir,2024-08-31,2934.7,2317.61,2250.96,2325.78,-34.85,138.68,reservoir-volumes-for-august-2024.csv
+2024-09-30,Hope Valley Reservoir,2024-09-30,2934.7,2346.51,2414.71,2273.8,-34.85,138.68,reservoirvolumesforseptember2024.csv
+2024-10-31,Hope Valley Reservoir,2024-10-31,2934.7,2298.46,2308.02,2353.9,-34.85,138.68,reservoir-volumes-for-october-2024.csv
+2025-01-31,Hope Valley Reservoir,2025-01-31,2934.7,2544.25,2524.07,2477.59,-34.85,138.68,reservoirvolumesforjanuary2025.csv
+2025-02-28,Hope Valley Reservoir,2025-02-28,2934.7,2878.93,2554.37,2615.62,-34.85,138.68,reservoirvolumesforfebruary2025.csv
+2025-03-31,Hope Valley Reservoir,2025-03-31,2934.7,1708.41,2514.02,2256.72,-34.85,138.68,reservoirvolumesformarch2025.csv
+2025-04-30,Hope Valley Reservoir,2025-04-30,2934.7,1700.36,2464.09,1692.61,-34.85,138.68,reservoirvolumesforapril2025.csv
+2025-05-31,Hope Valley Reservoir,2025-05-31,2934.7,1757.16,2464.09,1721.36,-34.85,138.68,reservoir-volumes-for-may-2025.csv
+2025-06-30,Hope Valley Reservoir,2025-06-30,2934.7,1773.59,2365.88,1772.5,-34.85,138.68,reservoir-volumes-for-june-2025.csv
+2025-07-31,Hope Valley Reservoir,2025-07-31,2934.7,1848.62,2365.88,1804.37,-34.85,138.68,reservoir-volumes-for-july-2025.csv
+2025-08-31,Hope Valley Reservoir,2025-08-31,2934.7,2356.18,2317.61,2033.46,-34.85,138.68,reservoir-volumes-for-august-2025.csv
+2025-09-30,Hope Valley Reservoir,2025-09-30,2934.7,2636.11,2346.51,2607.98,-34.85,138.68,reservoir-volumes-for-september-2025.csv
+2025-10-31,Hope Valley Reservoir,2025-10-31,2934.7,2514.02,2298.46,2621.25,-34.85,138.68,reservoir-volumes-for-october-2025.csv
+2025-11-30,Hope Valley Reservoir,2025-11-30,2934.7,2605.29,2308.02,2505.8,-34.85,138.68,reservoir-volumes-for-november-2025.csv
+2025-12-31,Hope Valley Reservoir,2025-12-31,2934.7,2260.42,2474.03,2201.11,-34.85,138.68,reservoir-volumes-for-december-2025.csv
+2026-01-31,Hope Valley Reservoir,2026-01-31,2934.7,2204.03,2544.25,2449.47,-34.85,138.68,reservoir-volumes-for-january-2026.csv
+2026-02-28,Hope Valley Reservoir,2026-02-28,2934.7,2474.03,2878.93,2522.31,-34.85,138.68,reservoir-volumes-for-february-2026.csv
+2026-03-31,Hope Valley Reservoir,2026-03-31,2934.7,2084.6,1708.41,1956.91,-34.85,138.68,reservoir-volumes-for-march-2026.csv
+2026-04-30,Hope Valley Reservoir,2026-04-30,2934.7,2102.73,1700.36,2263.26,-34.85,138.68,reservoir-volumes-for-april-2026.csv
+2026-05-31,Hope Valley Reservoir,2026-05-31,2934.7,2185.41,1757.16,2351.04,-34.85,138.68,reservoir-volumes-for-may-2026.csv
+2026-06-30,Hope Valley Reservoir,2026-06-30,2934.7,2222.74,1773.59,2255.62,-34.85,138.68,reservoirvolumesforjune2026.csv
+2026-07-31,Hope Valley Reservoir,2026-08-12,2934.7,2414.71,1986.49,2496.67,-34.85,138.68,reservoirvolumesforjuly2026.csv
+2026-08-31,Hope Valley Reservoir,2026-08-31,2934.7,2269.89,2356.18,2428.73,-34.85,138.68,reservoirvolumesforaugust2026.csv
+2026-09-30,Hope Valley Reservoir,2026-09-30,2934.7,2093.65,2636.11,2111.45,-34.85,138.68,reservoirvolumesforseptember2026.csv
+2018-05-31,Kangaroo Creek Reservoir,2018-05-31,18685,117.01,4370.59,94.97,-34.86,138.79,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Kangaroo Creek Reservoir,2018-07-02,18685,345.16,3447.02,341.46,-34.86,138.79,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Kangaroo Creek Reservoir,2018-07-30,18685,2308.37,4501.29,1023.97,-34.86,138.79,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Kangaroo Creek Reservoir,2018-08-31,18685,6363.86,12162.86,4908.71,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Kangaroo Creek Reservoir,2018-09-29,18685,7814.71,11648.29,6994.19,-34.86,138.79,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Kangaroo Creek Reservoir,2018-10-31,18685,8296.34,9588.51,8388.97,-34.86,138.79,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Kangaroo Creek Reservoir,2018-11-30,18685,8611.28,7240.65,8275.34,-34.86,138.79,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Kangaroo Creek Reservoir,2019-01-02,18685,9161.43,4550.88,9135.97,-34.86,138.79,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Kangaroo Creek Reservoir,2019-01-31,18685,6232.8,1808.93,7824.13,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Kangaroo Creek Reservoir,2019-02-28,18685,5434.78,1044.11,5820.81,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Kangaroo Creek Reservoir,2019-03-31,18684.67,5490.26,88.17,4967.45,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Kangaroo Creek Reservoir,2019-04-30,18684.67,4812.27,88.17,5073.34,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Kangaroo Creek Reservoir,2019-05-31,18684.67,3938.44,117.01,4527.77,-34.86,138.79,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Kangaroo Creek Reservoir,2019-06-30,18684.67,3611.45,330.45,3321.92,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Kangaroo Creek Reservoir,2019-07-31,18684.67,3383.87,2439.61,3772.37,-34.86,138.79,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Kangaroo Creek Reservoir,2019-09-02,18684.67,6937.03,6455.57,6849.45,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Kangaroo Creek Reservoir,2019-09-30,18684.67,8709.69,7895.65,8271.36,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Kangaroo Creek Reservoir,2019-12-02,18684.67,8368.35,8734.4,8356.33,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Kangaroo Creek Reservoir,2020-01-01,18684.67,6969.18,9110.51,6969.18,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Kangaroo Creek Reservoir,2020-02-03,18684.67,7384.38,5868.86,7402.94,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Kangaroo Creek Reservoir,2020-03-10,18684.67,7295.73,4676.28,7309.43,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Kangaroo Creek Reservoir,2020-03-31,18684.67,6537.77,5490.26,7126.6,-34.86,138.79,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Kangaroo Creek Reservoir,2020-04-30,18684.67,6024.6,4812.27,6053.32,-34.86,138.79,reservoirvolumesforapril2020.csv
+2020-05-31,Kangaroo Creek Reservoir,2020-05-31,18684.67,5811.09,3938.44,6055.4,-34.86,138.79,reservoirvolumesformay2020.csv
+2020-06-30,Kangaroo Creek Reservoir,2020-06-30,18684.67,6192.81,3611.45,5770.68,-34.86,138.79,reservoirvolumesforjune2020.csv
+2020-07-31,Kangaroo Creek Reservoir,2020-08-02,18684.67,5555.41,3404.85,5588.22,-34.86,138.79,reservoirvolumesforjuly2020.csv
+2020-08-31,Kangaroo Creek Reservoir,2020-08-31,18684.67,7575.01,6735.58,6225.44,-34.86,138.79,reservoirvolumesforaugust2020.csv
+2020-09-30,Kangaroo Creek Reservoir,2020-09-30,18684.67,7942.14,8709.69,7439.54,-34.86,138.79,reservoirvolumesforseptember2020.csv
+2020-10-31,Kangaroo Creek Reservoir,2020-11-01,18684.67,10676.9,9405.79,10676.9,-34.86,138.79,reservoirvolumesforoctober2020.csv
+2020-11-30,Kangaroo Creek Reservoir,2020-11-30,18684.67,8883.63,8332.3,9944.67,-34.86,138.79,reservoirvolumesfornovember2020.csv
+2020-12-31,Kangaroo Creek Reservoir,2021-01-03,18684.67,6937.03,6756.61,6972.8,-34.86,138.79,reservoirvolumesfordecember2020.csv
+2021-01-31,Kangaroo Creek Reservoir,2021-02-01,18684.67,5536.75,7417.8,5536.75,-34.86,138.79,reservoirvolumesforjanuary2021.csv
+2021-02-28,Kangaroo Creek Reservoir,2021-03-01,18684.67,6455.57,7317.83,6455.57,-34.86,138.79,reservoir-volumes-for-february-2021.csv
+2021-03-31,Kangaroo Creek Reservoir,2021-03-31,18684.67,5082.37,6537.77,5782.06,-34.86,138.79,reservoirvolumesformarch2021.csv
+2021-04-30,Kangaroo Creek Reservoir,2021-04-30,18684.67,3961.34,6024.6,4324.34,-34.86,138.79,reservoirvolumesforapril2021.csv
+2021-05-31,Kangaroo Creek Reservoir,2021-05-31,18684.67,2788.83,5811.09,3287.62,-34.86,138.78,reservoirvolumesformay2021.csv
+2021-06-30,Kangaroo Creek Reservoir,2021-06-30,18684.67,4076.98,6192.81,3359.67,-34.86,138.78,reservoirvolumesforjune2021.csv
+2021-07-31,Kangaroo Creek Reservoir,2021-08-01,18684.67,9680.72,5621.03,9680.72,-34.86,138.78,reservoirvolumesforjuly2021.csv
+2021-08-31,Kangaroo Creek Reservoir,2021-08-31,18684.67,12425.74,7575.01,11682.63,-34.86,138.78,reservoirvolumesforaugust2021.csv
+2021-09-30,Kangaroo Creek Reservoir,2021-09-30,18684.67,11499.75,7942.14,12107.67,-34.86,138.78,reservoirvolumesforseptember2021.csv
+2021-10-31,Kangaroo Creek Reservoir,2021-11-01,18684.67,11367.14,10676.9,11367.14,-34.86,138.78,reservoirvolumesforoctober2021.csv
+2021-11-30,Kangaroo Creek Reservoir,2021-11-30,18684.67,9826.78,8883.63,10615.2,-34.86,138.78,reservoirvolumesfornovember2021.csv
+2021-12-31,Kangaroo Creek Reservoir,2022-01-11,18684.67,7395.51,6548.1,7434.55,-34.86,138.78,reservoirvolumesfordecember2021.csv
+2022-01-31,Kangaroo Creek Reservoir,2022-01-31,18684.67,6527.46,5592.85,7068.27,-34.86,138.78,reservoirvolumesforjanuary2022.csv
+2022-02-28,Kangaroo Creek Reservoir,2022-03-03,18684.67,5453.23,6323.36,5527.6,-34.86,138.78,reservoirvolumesforfebruary2022.csv
+2022-03-31,Kangaroo Creek Reservoir,2022-04-04,18684.67,4202.48,4829.43,4180.77,-34.86,138.78,reservoirvolumesformarch2022.csv
+2022-04-30,Kangaroo Creek Reservoir,2022-05-02,18684.67,4226.26,3847.63,4238.19,-34.86,138.78,reservoirvolumesforapril2022.csv
+2022-05-31,Kangaroo Creek Reservoir,2022-05-31,18684.67,3961.34,2788.83,3954.35,-34.86,138.78,reservoirvolumesformay2022.csv
+2022-06-30,Kangaroo Creek Reservoir,2022-06-30,18684.67,4915.79,4076.98,4566.99,-34.86,138.78,reservoirvolumesforjune2022.csv
+2022-07-31,Kangaroo Creek Reservoir,2022-08-01,18684.67,5135.67,9680.72,5135.67,-34.86,138.78,reservoirvolumesjuly2022.csv
+2022-08-31,Kangaroo Creek Reservoir,2022-08-31,18684.67,9431.76,12425.74,7170.4,-34.86,138.78,reservoirvolumesforaugust2022.csv
+2022-09-30,Kangaroo Creek Reservoir,2022-09-30,18684.67,16652.92,11499.75,12901.67,-34.86,138.78,reservoirvolumesforseptermber2022.csv
+2022-10-31,Kangaroo Creek Reservoir,2022-11-01,18684.67,18879.5,11367.14,18879.5,-34.86,138.78,reservoirvolumesforoctober2022.csv
+2022-11-30,Kangaroo Creek Reservoir,2022-11-30,18684.67,18775.89,9826.78,19006.04,-34.86,138.78,reservoirvolumesfornovember2022.csv
+2022-12-31,Kangaroo Creek Reservoir,2023-01-09,18684.67,16070.61,7373.26,16416.4,-34.86,138.78,reservoirvolumesfordecember2022.csv
+2023-01-31,Kangaroo Creek Reservoir,2023-01-31,18684.67,14287.96,6527.46,15453.59,-34.86,138.78,reservoirvolumesforjanuary2023.csv
+2023-02-28,Kangaroo Creek Reservoir,2023-02-28,18684.67,12472.51,5621.03,13628.54,-34.86,138.78,reservoirvolumesforfebruary2023.csv
+2023-03-31,Kangaroo Creek Reservoir,2023-04-03,18684.67,10342.36,4186.67,10342.36,-34.86,138.78,reservoirvolumesformarch2023.csv
+2023-04-30,Kangaroo Creek Reservoir,2023-05-01,18684.67,9263.82,4250.12,9263.82,-34.86,138.78,reservoirvolumesforapril2023.csv
+2023-05-31,Kangaroo Creek Reservoir,2023-05-31,18684.67,8525.75,3961.34,8722.26,-34.86,138.78,reservoirvolumesformay2023.csv
+2023-06-30,Kangaroo Creek Reservoir,2023-06-30,18684.67,12332.53,4915.79,9581.63,-34.86,138.78,reservoirvolumesforjune2023.csv
+2023-07-31,Kangaroo Creek Reservoir,2023-07-31,18684.67,14877.97,5171.39,14078.97,-34.86,138.78,reservoirvolumesforjuly2023.csv
+2023-08-31,Kangaroo Creek Reservoir,2023-08-31,18684.67,15268.5,9431.76,14980.23,-34.86,138.78,reservoirvolumesforaugust2023.csv
+2023-09-30,Kangaroo Creek Reservoir,2023-10-03,18684.67,14339.37,16863.02,14339.37,-34.86,138.78,reservoirvolumesforseptember-2023.csv
+2023-10-31,Kangaroo Creek Reservoir,2023-10-31,18684.67,13237.16,18838.01,13838.77,-34.86,138.78,reservoirvolumesforoctober2023.csv
+2023-11-30,Kangaroo Creek Reservoir,2023-11-30,18684.67,11663.22,18775.89,12127.11,-34.86,138.78,reservoirvolumesfornovember2023.csv
+2024-01-31,Kangaroo Creek Reservoir,2024-01-31,18684.67,9614.8,14287.96,10438.6,-34.86,138.78,reservoirvolumesforjanuary2024.csv
+2024-02-29,Kangaroo Creek Reservoir,2024-02-29,18684.67,7218.7,12472.51,8506.33,-34.86,138.78,reservoirvolumesforfebruary2024.csv
+2024-03-31,Kangaroo Creek Reservoir,2024-04-04,18684.67,4567.49,10342.36,4655.54,-34.86,138.78,reservoir-volumes-for-march-2024.csv
+2024-05-31,Kangaroo Creek Reservoir,2024-05-31,18684.67,4701.6,8525.75,4733.17,-34.86,138.78,reservoirvolumesformay2024.csv
+2024-06-30,Kangaroo Creek Reservoir,2024-06-30,18684.67,4941.87,12332.53,4899.23,-34.86,138.78,reservoirvolumesforjune2024.csv
+2024-08-31,Kangaroo Creek Reservoir,2024-08-31,18684.67,5100.1,15268.5,4641.9,-34.86,138.78,reservoir-volumes-for-august-2024.csv
+2024-09-30,Kangaroo Creek Reservoir,2024-09-30,18684.67,6014.8,14477.06,5571.04,-34.86,138.78,reservoirvolumesforseptember2024.csv
+2024-10-31,Kangaroo Creek Reservoir,2024-10-31,18684.67,6343.59,13237.16,6201.11,-34.86,138.78,reservoir-volumes-for-october-2024.csv
+2025-01-31,Kangaroo Creek Reservoir,2025-01-31,18684.67,4634.26,9614.8,5653.02,-34.86,138.78,reservoirvolumesforjanuary2025.csv
+2025-02-28,Kangaroo Creek Reservoir,2025-02-28,18684.67,2387.77,7306.77,3600.92,-34.86,138.78,reservoirvolumesforfebruary2025.csv
+2025-03-31,Kangaroo Creek Reservoir,2025-03-31,18684.67,2410.73,4803.7,2404.06,-34.86,138.78,reservoirvolumesformarch2025.csv
+2025-04-30,Kangaroo Creek Reservoir,2025-04-30,18684.67,2410.73,4550.88,2410.92,-34.86,138.78,reservoirvolumesforapril2025.csv
+2025-05-31,Kangaroo Creek Reservoir,2025-05-31,18684.67,2258.13,4701.6,2376.66,-34.86,138.78,reservoir-volumes-for-may-2025.csv
+2025-06-30,Kangaroo Creek Reservoir,2025-06-30,18684.67,2720.56,4941.87,2480.64,-34.86,138.78,reservoir-volumes-for-june-2025.csv
+2025-07-31,Kangaroo Creek Reservoir,2025-07-31,18684.67,6714.58,4567.49,3908.7,-34.86,138.78,reservoir-volumes-for-july-2025.csv
+2025-08-31,Kangaroo Creek Reservoir,2025-08-31,18684.67,8685.02,5100.1,7523.1,-34.86,138.78,reservoir-volumes-for-august-2025.csv
+2025-09-30,Kangaroo Creek Reservoir,2025-09-30,18684.67,10356.16,6014.8,9601.61,-34.86,138.78,reservoir-volumes-for-september-2025.csv
+2025-10-31,Kangaroo Creek Reservoir,2025-10-31,18684.67,12224.38,6343.59,11255.41,-34.86,138.78,reservoir-volumes-for-october-2025.csv
+2025-11-30,Kangaroo Creek Reservoir,2025-11-30,18684.67,13139.9,6476.06,12695.52,-34.86,138.78,reservoir-volumes-for-november-2025.csv
+2025-12-31,Kangaroo Creek Reservoir,2025-12-31,18684.67,13139.9,6455.57,13556.01,-34.86,138.78,reservoir-volumes-for-december-2025.csv
+2026-01-31,Kangaroo Creek Reservoir,2026-01-31,18684.67,11979.56,4634.26,12304.5,-34.86,138.78,reservoir-volumes-for-january-2026.csv
+2026-02-28,Kangaroo Creek Reservoir,2026-02-28,18684.67,10218.7,2387.77,10881.11,-34.86,138.78,reservoir-volumes-for-february-2026.csv
+2026-03-31,Kangaroo Creek Reservoir,2026-03-31,18684.67,9059.78,2410.73,9967.8,-34.86,138.78,reservoir-volumes-for-march-2026.csv
+2026-04-30,Kangaroo Creek Reservoir,2026-04-30,18684.67,7872.47,2410.73,8284.34,-34.86,138.78,reservoir-volumes-for-april-2026.csv
+2026-05-31,Kangaroo Creek Reservoir,2026-05-31,18684.67,6851.76,2258.13,7103.05,-34.86,138.78,reservoir-volumes-for-may-2026.csv
+2026-06-30,Kangaroo Creek Reservoir,2026-06-30,18684.67,6979.91,2720.56,6876.07,-34.86,138.78,reservoirvolumesforjune2026.csv
+2026-07-31,Kangaroo Creek Reservoir,2026-08-12,18684.67,15959.56,7306.77,11582.23,-34.86,138.78,reservoirvolumesforjuly2026.csv
+2026-08-31,Kangaroo Creek Reservoir,2026-08-31,18684.67,18838.01,8685.02,15157.83,-34.86,138.78,reservoirvolumesforaugust2026.csv
+2026-09-30,Kangaroo Creek Reservoir,2026-09-30,18684.67,18385.81,10356.16,18708.72,-34.86,138.78,reservoirvolumesforseptember2026.csv
+2018-05-31,Little Para Reservoir,2018-05-31,20891,7963.76,13042,8073.9,-34.75,138.73,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Little Para Reservoir,2018-07-02,20891,7963.76,12598.16,7971.48,-34.75,138.73,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Little Para Reservoir,2018-07-30,20891,7659.04,12225.71,7829,-34.75,138.73,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Little Para Reservoir,2018-08-31,20891,7932.93,13804.38,7854.9,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Little Para Reservoir,2018-09-29,20891,8580.9,14526.44,8278.13,-34.75,138.73,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Little Para Reservoir,2018-10-31,20891,9228.96,13893.32,8905.38,-34.75,138.73,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Little Para Reservoir,2018-11-30,20891,9696.09,12514.76,9328.18,-34.75,138.73,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Little Para Reservoir,2019-01-02,20891,9110.34,11171.27,9110.34,-34.75,138.73,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Little Para Reservoir,2019-01-31,20891,7856.21,9748.94,8593.86,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Little Para Reservoir,2019-02-28,20891,6504.32,8678.57,7146.69,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Little Para Reservoir,2019-03-31,20890.88,6005.23,8229.01,6152.49,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Little Para Reservoir,2019-04-30,20890.88,5740.75,8150.4,5841.97,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Little Para Reservoir,2019-05-31,20890.88,6599.18,7963.76,5975.76,-34.75,138.73,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Little Para Reservoir,2019-06-30,20890.88,8500.07,7932.93,7616.48,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Little Para Reservoir,2019-07-31,20890.88,9608.43,7644.02,9212.83,-34.75,138.73,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Little Para Reservoir,2019-09-02,20890.88,10142.32,7979.2,10151.38,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Little Para Reservoir,2019-09-30,20890.88,9837.44,8613.38,10072.08,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Little Para Reservoir,2019-12-02,20890.88,8197.51,9748.94,8244.89,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Little Para Reservoir,2020-01-01,20890.88,6544.87,9110.34,6544.87,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Little Para Reservoir,2020-02-03,20890.88,5828.02,7689.16,5805.13,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Little Para Reservoir,2020-03-10,20890.88,6082.27,6277.75,5895.84,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Little Para Reservoir,2020-03-31,20890.88,6626.46,6005.23,6108.75,-34.75,138.73,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Little Para Reservoir,2020-04-30,20890.88,7289.19,5740.75,6924.02,-34.75,138.73,reservoirvolumesforapril2020.csv
+2020-05-31,Little Para Reservoir,2020-05-31,20890.88,8451.81,6599.18,7987.84,-34.75,138.73,reservoirvolumesformay2020.csv
+2020-06-30,Little Para Reservoir,2020-06-30,20890.88,10361.24,8500.07,9253.68,-34.75,138.73,reservoirvolumesforjune2020.csv
+2020-07-31,Little Para Reservoir,2020-08-02,20890.88,10751.81,9538.68,10751.81,-34.75,138.73,reservoirvolumesforjuly2020.csv
+2020-08-31,Little Para Reservoir,2020-08-31,20890.88,11190.59,10124.21,10896.07,-34.75,138.73,reservoirvolumesforaugust2020.csv
+2020-09-30,Little Para Reservoir,2020-09-30,20890.88,10998.39,9837.44,11152.19,-34.75,138.73,reservoirvolumesforseptember2020.csv
+2020-10-31,Little Para Reservoir,2020-11-01,20890.88,10884.13,9093.47,10884.13,-34.75,138.73,reservoirvolumesforoctober2020.csv
+2020-11-30,Little Para Reservoir,2020-11-30,20890.88,9837.44,8260.6,10314.42,-34.75,138.73,reservoirvolumesfornovember2020.csv
+2020-12-31,Little Para Reservoir,2021-01-03,20890.88,8892.72,6504.32,8937.12,-34.75,138.73,reservoirvolumesfordecember2020.csv
+2021-01-31,Little Para Reservoir,2021-02-01,20890.88,7539.37,5765.6,7539.37,-34.75,138.73,reservoirvolumesforjanuary2021.csv
+2021-02-28,Little Para Reservoir,2021-03-01,20890.88,7073.1,5642.09,7073.1,-34.75,138.73,reservoir-volumes-for-february-2021.csv
+2021-03-31,Little Para Reservoir,2021-03-31,20890.88,6225.21,6626.46,6619.71,-34.75,138.73,reservoirvolumesformarch2021.csv
+2021-04-30,Little Para Reservoir,2021-04-30,20890.88,5544.57,7289.19,5895.35,-34.75,138.73,reservoirvolumesforapril2021.csv
+2021-05-31,Little Para Reservoir,2021-05-31,20890.88,5605.38,8451.81,5595.56,-34.74,138.72,reservoirvolumesformay2021.csv
+2021-06-30,Little Para Reservoir,2021-06-30,20890.88,6121.03,10361.24,5786.65,-34.74,138.72,reservoirvolumesforjune2021.csv
+2021-07-31,Little Para Reservoir,2021-08-01,20890.88,8103.47,10751.81,8103.47,-34.74,138.72,reservoirvolumesforjuly2021.csv
+2021-08-31,Little Para Reservoir,2021-08-31,20890.88,9696.09,11190.59,9131.37,-34.74,138.72,reservoirvolumesforaugust2021.csv
+2021-09-30,Little Para Reservoir,2021-09-30,20890.88,10233.16,10998.39,10008.94,-34.74,138.72,reservoirvolumesforseptember2021.csv
+2021-10-31,Little Para Reservoir,2021-11-01,20890.88,10789.51,10884.13,10789.51,-34.74,138.72,reservoirvolumesforoctober2021.csv
+2021-11-30,Little Para Reservoir,2021-11-30,20890.88,10808.39,9837.44,10874.13,-34.74,138.72,reservoirvolumesfornovember2021.csv
+2021-12-31,Little Para Reservoir,2022-01-11,20890.88,9400.19,8483.96,9581.72,-34.74,138.72,reservoirvolumesfordecember2021.csv
+2022-01-31,Little Para Reservoir,2022-01-31,20890.88,8694.92,7569.17,9157.53,-34.74,138.72,reservoirvolumesforjanuary2022.csv
+2022-02-28,Little Para Reservoir,2022-03-03,20890.88,8103.47,7030.39,8160.93,-34.74,138.72,reservoirvolumesforfebruary2022.csv
+2022-03-31,Little Para Reservoir,2022-04-04,20890.88,7406.22,6095.17,7454.15,-34.74,138.72,reservoirvolumesformarch2022.csv
+2022-04-30,Little Para Reservoir,2022-05-02,20890.88,6517.82,5568.84,6538.12,-34.74,138.72,reservoirvolumesforapril2022.csv
+2022-05-31,Little Para Reservoir,2022-05-31,20890.88,6043.67,5605.38,6178.47,-34.74,138.72,reservoirvolumesformay2022.csv
+2022-06-30,Little Para Reservoir,2022-06-30,20890.88,6763.94,6121.03,6497.81,-34.74,138.72,reservoirvolumesforjune2022.csv
+2022-07-31,Little Para Reservoir,2022-08-01,20890.88,7101.66,8103.47,7101.66,-34.74,138.72,reservoirvolumesjuly2022.csv
+2022-08-31,Little Para Reservoir,2022-08-31,20890.88,9784.28,9696.09,8293.84,-34.74,138.72,reservoirvolumesforaugust2022.csv
+2022-09-30,Little Para Reservoir,2022-09-30,20890.88,12660.96,10233.16,11174.22,-34.74,138.72,reservoirvolumesforseptermber2022.csv
+2022-10-31,Little Para Reservoir,2022-11-01,20890.88,13627.62,10789.51,13627.62,-34.74,138.72,reservoirvolumesforoctober2022.csv
+2022-11-30,Little Para Reservoir,2022-11-30,20890.88,16713.77,10808.39,15430.87,-34.74,138.72,reservoirvolumesfornovember2022.csv
+2022-12-31,Little Para Reservoir,2023-01-09,20890.88,16314.59,9521.3,16433.22,-34.74,138.72,reservoirvolumesfordecember2022.csv
+2023-01-31,Little Para Reservoir,2023-01-31,20890.88,15225.43,8694.92,15940.52,-34.74,138.72,reservoirvolumesforjanuary2023.csv
+2023-02-28,Little Para Reservoir,2023-02-28,20890.88,14849.96,8260.6,14907.9,-34.74,138.72,reservoirvolumesforfebruary2023.csv
+2023-03-31,Little Para Reservoir,2023-04-03,20890.88,14094.81,7465.2,14132.35,-34.74,138.72,reservoirvolumesformarch2023.csv
+2023-04-30,Little Para Reservoir,2023-05-01,20890.88,13826.58,6558.42,13826.58,-34.74,138.72,reservoirvolumesforapril2023.csv
+2023-05-31,Little Para Reservoir,2023-05-31,20890.88,13408.76,6043.67,13630.19,-34.74,138.72,reservoirvolumesformay2023.csv
+2023-06-30,Little Para Reservoir,2023-06-30,20890.88,14343.66,6763.94,13530.07,-34.74,138.72,reservoirvolumesforjune2023.csv
+2023-07-31,Little Para Reservoir,2023-07-31,20890.88,14710.74,7101.66,14628.54,-34.74,138.72,reservoirvolumesforjuly2023.csv
+2023-08-31,Little Para Reservoir,2023-08-31,20890.88,14849.96,9784.28,14735.56,-34.74,138.72,reservoirvolumesforaugust2023.csv
+2023-09-30,Little Para Reservoir,2023-10-03,20890.88,13982.63,12702.93,13982.64,-34.74,138.72,reservoirvolumesforseptember-2023.csv
+2023-10-31,Little Para Reservoir,2023-10-31,20890.88,13256.94,13605.63,13627.63,-34.74,138.72,reservoirvolumesforoctober2023.csv
+2023-11-30,Little Para Reservoir,2023-11-30,20890.88,12556.42,16713.77,12871.51,-34.74,138.72,reservoirvolumesfornovember2023.csv
+2024-01-31,Little Para Reservoir,2024-01-31,20890.88,11860.57,15225.43,12489.62,-34.74,138.72,reservoirvolumesforjanuary2024.csv
+2024-02-29,Little Para Reservoir,2024-02-29,20890.88,10546.04,14849.96,11280.37,-34.74,138.72,reservoirvolumesforfebruary2024.csv
+2024-03-31,Little Para Reservoir,2024-04-04,20890.88,8645.93,14072.33,8678.63,-34.74,138.72,reservoir-volumes-for-march-2024.csv
+2024-05-31,Little Para Reservoir,2024-05-31,20890.88,8564.69,13408.76,8569.93,-34.74,138.72,reservoirvolumesformay2024.csv
+2024-06-30,Little Para Reservoir,2024-06-30,20890.88,8564.69,14343.66,8568.48,-34.74,138.72,reservoirvolumesforjune2024.csv
+2024-08-31,Little Para Reservoir,2024-08-31,20890.88,7749.63,14849.96,7906.92,-34.74,138.72,reservoir-volumes-for-august-2024.csv
+2024-09-30,Little Para Reservoir,2024-09-30,20890.88,7130.3,14072.33,7394.82,-34.74,138.72,reservoirvolumesforseptember2024.csv
+2024-10-31,Little Para Reservoir,2024-10-31,20890.88,6612.81,13256.94,6923.62,-34.74,138.72,reservoir-volumes-for-october-2024.csv
+2025-01-31,Little Para Reservoir,2025-01-31,20890.88,5212.18,11860.57,5557.83,-34.74,138.72,reservoirvolumesforjanuary2025.csv
+2025-02-28,Little Para Reservoir,2025-02-28,20890.88,4204.79,10601.9,4679.8,-34.74,138.72,reservoirvolumesforfebruary2025.csv
+2025-03-31,Little Para Reservoir,2025-03-31,20890.88,3853.22,8744.09,3793.81,-34.74,138.72,reservoirvolumesformarch2025.csv
+2025-04-30,Little Para Reservoir,2025-04-30,20890.88,4430,8597.13,4146.15,-34.74,138.72,reservoirvolumesforapril2025.csv
+2025-05-31,Little Para Reservoir,2025-05-31,20890.88,5654.36,8564.69,4990.72,-34.74,138.72,reservoir-volumes-for-may-2025.csv
+2025-06-30,Little Para Reservoir,2025-06-30,20890.88,7115.97,8564.69,6331.14,-34.74,138.72,reservoir-volumes-for-june-2025.csv
+2025-07-31,Little Para Reservoir,2025-07-31,20890.88,8959.31,7979.2,7859.68,-34.74,138.72,reservoir-volumes-for-july-2025.csv
+2025-08-31,Little Para Reservoir,2025-08-31,20890.88,10398.03,7749.63,9550.6,-34.74,138.72,reservoir-volumes-for-august-2025.csv
+2025-09-30,Little Para Reservoir,2025-09-30,20890.88,12369.68,7130.3,11471.4,-34.74,138.72,reservoir-volumes-for-september-2025.csv
+2025-10-31,Little Para Reservoir,2025-10-31,20890.88,13278.56,6612.81,12946.43,-34.74,138.72,reservoir-volumes-for-october-2025.csv
+2025-11-30,Little Para Reservoir,2025-11-30,20890.88,14873.25,6277.75,13944.14,-34.74,138.72,reservoir-volumes-for-november-2025.csv
+2025-12-31,Little Para Reservoir,2025-12-31,20890.88,15463.23,5992.45,15189.18,-34.74,138.72,reservoir-volumes-for-december-2025.csv
+2026-01-31,Little Para Reservoir,2026-01-31,20890.88,14757.05,5212.18,15368.64,-34.74,138.72,reservoir-volumes-for-january-2026.csv
+2026-02-28,Little Para Reservoir,2026-02-28,20890.88,13321.87,4204.79,14009.39,-34.74,138.72,reservoir-volumes-for-february-2026.csv
+2026-03-31,Little Para Reservoir,2026-03-31,20890.88,12266.73,3853.22,12816.93,-34.74,138.72,reservoir-volumes-for-march-2026.csv
+2026-04-30,Little Para Reservoir,2026-04-30,20890.88,11132.7,4255.28,11680.04,-34.74,138.72,reservoir-volumes-for-april-2026.csv
+2026-05-31,Little Para Reservoir,2026-05-31,20890.88,10070.03,5654.36,10547.2,-34.74,138.72,reservoir-volumes-for-may-2026.csv
+2026-06-30,Little Para Reservoir,2026-06-30,20890.88,9819.7,7115.97,9859.95,-34.74,138.72,reservoirvolumesforjune2026.csv
+2026-07-31,Little Para Reservoir,2026-08-12,20890.88,12514.76,9451.97,10779.28,-34.74,138.72,reservoirvolumesforjuly2026.csv
+2026-08-31,Little Para Reservoir,2026-08-31,20890.88,14094.81,10398.03,12324.39,-34.74,138.72,reservoirvolumesforaugust2026.csv
+2026-09-30,Little Para Reservoir,2026-09-30,20890.88,13627.62,12369.68,14057.47,-34.74,138.72,reservoirvolumesforseptember2026.csv
+2022-03-31,Middle River Reservoir,2022-04-04,545,295.95,333.48,299.11,-35.71,137.09,reservoirvolumesformarch2022.csv
+2022-04-30,Middle River Reservoir,2022-05-02,545,257.12,291.95,257.12,-35.71,137.09,reservoirvolumesforapril2022.csv
+2022-05-31,Middle River Reservoir,2022-05-31,545,259.08,275.04,247.67,-35.71,137.09,reservoirvolumesformay2022.csv
+2022-06-30,Middle River Reservoir,2022-06-30,545,543.59,539.22,404.96,-35.71,137.09,reservoirvolumesforjune2022.csv
+2022-07-31,Middle River Reservoir,2022-08-01,545,566.03,564.23,566.04,-35.71,137.09,reservoirvolumesjuly2022.csv
+2022-08-31,Middle River Reservoir,2022-08-31,545,548.22,546.34,557.62,-35.71,137.09,reservoirvolumesforaugust2022.csv
+2022-09-30,Middle River Reservoir,2022-09-30,545,544.71,542.84,550.38,-35.71,137.09,reservoirvolumesforseptermber2022.csv
+2022-10-31,Middle River Reservoir,2022-11-01,545,547.47,544.34,547.47,-35.71,137.09,reservoirvolumesforoctober2022.csv
+2022-11-30,Middle River Reservoir,2022-11-30,545,542.71,532.17,545.85,-35.71,137.09,reservoirvolumesfornovember2022.csv
+2022-12-31,Middle River Reservoir,2023-01-09,545,488.34,441.85,498.54,-35.71,137.09,reservoirvolumesfordecember2022.csv
+2023-01-31,Middle River Reservoir,2023-01-31,545,436.59,418.9,470.42,-35.71,137.09,reservoirvolumesforjanuary2023.csv
+2023-02-28,Middle River Reservoir,2023-02-28,545,372.66,365.66,405.44,-35.71,137.09,reservoirvolumesforfebruary2023.csv
+2023-03-31,Middle River Reservoir,2023-04-03,545,312.04,298.46,314.25,-35.71,137.09,reservoirvolumesformarch2023.csv
+2023-04-30,Middle River Reservoir,2023-05-01,545,376,257.12,376,-35.71,137.09,reservoirvolumesforapril2023.csv
+2023-05-31,Middle River Reservoir,2023-05-31,545,447.59,259.08,405.19,-35.71,137.09,reservoirvolumesformay2023.csv
+2023-06-30,Middle River Reservoir,2023-06-30,545,478.57,543.59,509.9,-35.71,137.09,reservoirvolumesforjune2023.csv
+2023-07-31,Middle River Reservoir,2023-07-31,545,475.83,554.41,479.54,-35.71,137.09,reservoirvolumesforjuly2023.csv
+2023-08-31,Middle River Reservoir,2023-08-31,545,471.3,548.22,474.4,-35.71,137.09,reservoirvolumesforaugust2023.csv
+2023-09-30,Middle River Reservoir,2023-10-03,545,515.73,544.34,515.73,-35.71,137.09,reservoirvolumesforseptember-2023.csv
+2023-10-31,Middle River Reservoir,2023-10-31,545,506.76,545.34,514.9,-35.71,137.09,reservoirvolumesforoctober2023.csv
+2023-11-30,Middle River Reservoir,2023-11-30,545,445.63,542.71,474.66,-35.71,137.09,reservoirvolumesfornovember2023.csv
+2024-01-31,Middle River Reservoir,2024-01-31,545,343.43,436.59,376.73,-35.71,137.09,reservoirvolumesforjanuary2024.csv
+2024-02-29,Middle River Reservoir,2024-02-29,545,323.21,372.66,344.51,-35.71,137.09,reservoirvolumesforfebruary2024.csv
+2024-03-31,Middle River Reservoir,2024-04-04,545,240.62,311.2,243.4,-35.71,137.09,reservoir-volumes-for-march-2024.csv
+2024-05-31,Middle River Reservoir,2024-05-31,545,146.34,509.55,166.99,-35.71,137.09,reservoirvolumesformay2024.csv
+2024-06-30,Middle River Reservoir,2024-06-30,545,243.17,542.27,147.82,-35.71,137.09,reservoirvolumesforjune2024.csv
+2024-08-31,Middle River Reservoir,2024-08-31,545,611.84,534.6,613.09,-35.71,137.09,reservoir-volumes-for-august-2024.csv
+2024-09-30,Middle River Reservoir,2024-09-30,545,610.13,576.07,612.24,-35.71,137.09,reservoirvolumesforseptember2024.csv
+2024-10-31,Middle River Reservoir,2024-10-31,545,605.13,572.04,594.59,-35.71,137.09,reservoir-volumes-for-october-2024.csv
+2025-01-31,Middle River Reservoir,2025-01-31,545,439.16,399.35,472.97,-35.71,137.09,reservoirvolumesforjanuary2025.csv
+2025-02-28,Middle River Reservoir,2025-02-28,545,367.47,326.44,393.22,-35.71,137.09,reservoirvolumesforfebruary2025.csv
+2025-03-31,Middle River Reservoir,2025-03-31,545,296.65,247.82,330.41,-35.71,137.09,reservoirvolumesformarch2025.csv
+2025-04-30,Middle River Reservoir,2025-04-30,545,241.19,191.31,265.31,-35.71,137.09,reservoirvolumesforapril2025.csv
+2025-05-31,Middle River Reservoir,2025-05-31,545,225.87,146.34,225.29,-35.71,137.09,reservoir-volumes-for-may-2025.csv
+2025-06-30,Middle River Reservoir,2025-06-30,545,305.56,243.17,255.46,-35.71,137.09,reservoir-volumes-for-june-2025.csv
+2025-07-31,Middle River Reservoir,2025-07-31,545,305.56,611.18,305.56,-35.71,137.09,reservoir-volumes-for-july-2025.csv
+2025-08-31,Middle River Reservoir,2025-08-31,545,598.48,611.84,547.13,-35.71,137.09,reservoir-volumes-for-august-2025.csv
+2025-09-30,Middle River Reservoir,2025-09-30,545,597.7,610.13,552.64,-35.71,137.09,reservoir-volumes-for-september-2025.csv
+2025-10-31,Middle River Reservoir,2025-10-31,545,596.14,605.13,592.09,-35.71,137.09,reservoir-volumes-for-october-2025.csv
+2025-11-30,Middle River Reservoir,2025-11-30,545,594.98,566.41,594.22,,,reservoir-volumes-for-november-2025.csv
+2025-12-31,Middle River Reservoir,2025-12-31,545,529.61,510.01,566.91,,,reservoir-volumes-for-december-2025.csv
+2026-01-31,Middle River Reservoir,2026-01-31,,448.15,439.16,487.37,,,reservoir-volumes-for-january-2026.csv
+2026-02-28,Middle River Reservoir,2026-02-28,,390.02,367.47,413.26,,,reservoir-volumes-for-february-2026.csv
+2026-03-31,Middle River Reservoir,2026-03-31,,338.88,296.65,365.4,,,reservoir-volumes-for-march-2026.csv
+2026-04-30,Middle River Reservoir,2026-04-30,,309.35,241.19,323.71,,,reservoir-volumes-for-april-2026.csv
+2026-05-31,Middle River Reservoir,2026-05-31,545,385.09,225.87,345.38,-35.71,137.09,reservoir-volumes-for-may-2026.csv
+2026-06-30,Middle River Reservoir,2026-06-30,545,638.42,305.56,613,-35.71,137.09,reservoirvolumesforjune2026.csv
+2026-07-31,Middle River Reservoir,2026-08-12,545,603.43,543.12,560.05,-35.71,137.09,reservoirvolumesforjuly2026.csv
+2026-08-31,Middle River Reservoir,2026-08-31,545,546.02,598.48,560.37,-35.71,137.09,reservoirvolumesforaugust2026.csv
+2026-09-30,Middle River Reservoir,2026-09-30,545,539.39,597.7,541.89,-35.71,137.09,reservoirvolumesforseptember2026.csv
+2018-05-31,Millbrook Reservoir,2018-05-31,15715,8297.5,7056.13,8046.49,-34.83,138.81,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Millbrook Reservoir,2018-07-02,15715,8203.19,5855.49,8203.19,-34.83,138.81,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Millbrook Reservoir,2018-07-30,15715,8344.9,7013.23,8271.58,-34.83,138.81,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Millbrook Reservoir,2018-08-31,15715,9351.74,11858.48,9016.07,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Millbrook Reservoir,2018-09-29,15715,9124.95,14450.17,9310.33,-34.83,138.81,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Millbrook Reservoir,2018-10-31,15715,9200.19,13806.72,9179.15,-34.83,138.81,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Millbrook Reservoir,2018-11-30,15715,9326.38,11887.63,9238,-34.83,138.81,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Millbrook Reservoir,2019-01-02,15715,9301.06,10975.29,9301.06,-34.83,138.81,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Millbrook Reservoir,2019-01-31,15715,9351.74,9972.5,9325.58,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Millbrook Reservoir,2019-02-28,15715,8681.13,8109.51,9021.16,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Millbrook Reservoir,2019-03-31,15714.73,8729.8,8016.47,8703.89,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Millbrook Reservoir,2019-04-30,15714.73,8778.63,8016.47,8752.58,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Millbrook Reservoir,2019-05-31,15714.73,7516.05,8039.67,8401.55,-34.83,138.81,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Millbrook Reservoir,2019-06-30,15714.73,7763.87,8203.19,7608.08,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Millbrook Reservoir,2019-07-31,15714.73,8156.27,8368.65,7969.45,-34.83,138.81,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Millbrook Reservoir,2019-09-02,15714.73,9000.36,9377.14,9000.36,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Millbrook Reservoir,2019-09-30,15714.73,8778.63,9124.95,9135.7,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Millbrook Reservoir,2019-12-02,15714.73,9479.15,9326.38,9453.61,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Millbrook Reservoir,2020-01-01,15714.73,9841.26,9301.06,9841.26,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Millbrook Reservoir,2020-02-03,15714.73,9841.26,9351.74,9841.26,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Millbrook Reservoir,2020-03-10,15714.73,8321.18,8681.13,8349.69,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Millbrook Reservoir,2020-03-31,15714.73,8226.71,8729.8,8298.34,-34.83,138.81,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Millbrook Reservoir,2020-04-30,15714.73,7360.82,8778.63,7841.9,-34.83,138.81,reservoirvolumesforapril2020.csv
+2020-05-31,Millbrook Reservoir,2020-05-31,15714.73,7471.5,7516.05,7445.02,-34.83,138.81,reservoirvolumesformay2020.csv
+2020-06-30,Millbrook Reservoir,2020-06-30,15714.73,7970.19,7763.87,7677.33,-34.83,138.81,reservoirvolumesforjune2020.csv
+2020-07-31,Millbrook Reservoir,2020-08-02,15714.73,8464.08,8156.27,8464.08,-34.83,138.81,reservoirvolumesforjuly2020.csv
+2020-08-31,Millbrook Reservoir,2020-08-31,15714.73,10157.95,8975.57,8825.66,-34.83,138.81,reservoirvolumesforaugust2020.csv
+2020-09-30,Millbrook Reservoir,2020-09-30,15714.73,11713.37,8778.63,11056.5,-34.83,138.81,reservoirvolumesforseptember2020.csv
+2020-10-31,Millbrook Reservoir,2020-11-01,15714.73,12811.53,8536.07,12811.53,-34.83,138.81,reservoirvolumesforoctober2020.csv
+2020-11-30,Millbrook Reservoir,2020-11-30,15714.73,12299.98,9377.14,12442.86,-34.83,138.81,reservoirvolumesfornovember2020.csv
+2020-12-31,Millbrook Reservoir,2021-01-03,15714.73,12181.34,9841.26,12181.34,-34.83,138.81,reservoirvolumesfordecember2020.csv
+2021-01-31,Millbrook Reservoir,2021-02-01,15714.73,11426.22,9841.26,11426.22,-34.83,138.81,reservoirvolumesforjanuary2021.csv
+2021-02-28,Millbrook Reservoir,2021-03-01,15714.73,10291.63,8440.17,10291.63,-34.83,138.81,reservoir-volumes-for-february-2021.csv
+2021-03-31,Millbrook Reservoir,2021-03-31,15714.73,9149.99,8226.71,9659.23,-34.83,138.81,reservoirvolumesformarch2021.csv
+2021-04-30,Millbrook Reservoir,2021-04-30,15714.73,8132.87,7360.82,8764.16,-34.83,138.81,reservoirvolumesforapril2021.csv
+2021-05-31,Millbrook Reservoir,2021-05-31,15714.73,8344.9,7471.5,8247.43,-34.82,138.81,reservoirvolumesformay2021.csv
+2021-06-30,Millbrook Reservoir,2021-06-30,15714.73,7718.46,7970.19,7902.45,-34.82,138.81,reservoirvolumesforjune2021.csv
+2021-07-31,Millbrook Reservoir,2021-08-01,15714.73,9711.02,8464.08,9711.02,-34.82,138.81,reservoirvolumesforjuly2021.csv
+2021-08-31,Millbrook Reservoir,2021-08-31,15714.73,11771.29,10157.95,11094.67,-34.82,138.81,reservoirvolumesforaugust2021.csv
+2021-09-30,Millbrook Reservoir,2021-09-30,15714.73,12092.8,11713.37,12180.17,-34.82,138.81,reservoirvolumesforseptember2021.csv
+2021-10-31,Millbrook Reservoir,2021-11-01,15714.73,13148.86,12811.53,13148.86,-34.82,138.81,reservoirvolumesforoctober2021.csv
+2021-11-30,Millbrook Reservoir,2021-11-30,15714.73,12033.97,12299.98,12431.6,-34.82,138.81,reservoirvolumesfornovember2021.csv
+2021-12-31,Millbrook Reservoir,2022-01-11,15714.73,11887.63,12122.27,11687.42,-34.82,138.81,reservoirvolumesfordecember2021.csv
+2022-01-31,Millbrook Reservoir,2022-01-31,15714.73,11454.75,11426.22,11751.5,-34.82,138.81,reservoirvolumesforjanuary2022.csv
+2022-02-28,Millbrook Reservoir,2022-03-03,15714.73,10345.38,10238.03,10336.42,-34.82,138.81,reservoirvolumesforfebruary2022.csv
+2022-03-31,Millbrook Reservoir,2022-04-04,15714.73,9301.06,9175.07,9415.55,-34.82,138.81,reservoirvolumesformarch2022.csv
+2022-04-30,Millbrook Reservoir,2022-05-02,15714.73,8440.17,8132.87,8440.17,-34.82,138.81,reservoirvolumesforapril2022.csv
+2022-05-31,Millbrook Reservoir,2022-05-31,15714.73,8656.85,8344.9,8454.88,-34.82,138.81,reservoirvolumesformay2022.csv
+2022-06-30,Millbrook Reservoir,2022-06-30,15714.73,9275.79,7718.46,9032.17,-34.82,138.81,reservoirvolumesforjune2022.csv
+2022-07-31,Millbrook Reservoir,2022-08-01,15714.73,9581.8,9711.02,9581.8,-34.82,138.81,reservoirvolumesjuly2022.csv
+2022-08-31,Millbrook Reservoir,2022-08-31,15714.73,11540.59,11771.29,10542.2,-34.82,138.81,reservoirvolumesforaugust2022.csv
+2022-09-30,Millbrook Reservoir,2022-09-30,15714.73,13366.13,12092.8,12423.45,-34.82,138.81,reservoirvolumesforseptermber2022.csv
+2022-10-31,Millbrook Reservoir,2022-11-01,15714.73,12449.2,13148.86,12449.2,-34.82,138.81,reservoirvolumesforoctober2022.csv
+2022-11-30,Millbrook Reservoir,2022-11-30,15714.73,15110.12,12033.97,13681.34,-34.82,138.81,reservoirvolumesfornovember2022.csv
+2022-12-31,Millbrook Reservoir,2023-01-09,15714.73,12329.74,11800.32,12725.58,-34.82,138.81,reservoirvolumesfordecember2022.csv
+2023-01-31,Millbrook Reservoir,2023-01-31,15714.73,12092.8,11454.75,12307.1,-34.82,138.81,reservoirvolumesforjanuary2023.csv
+2023-02-28,Millbrook Reservoir,2023-02-28,15714.73,9998.87,10318.49,11209.4,-34.82,138.81,reservoirvolumesforfebruary2023.csv
+2023-03-31,Millbrook Reservoir,2023-04-03,15714.73,8440.17,9377.14,8448.14,-34.82,138.81,reservoirvolumesformarch2023.csv
+2023-04-30,Millbrook Reservoir,2023-05-01,15714.73,8179.71,8440.17,8179.71,-34.82,138.81,reservoirvolumesforapril2023.csv
+2023-05-31,Millbrook Reservoir,2023-05-31,15714.73,7404.98,8656.85,7646.6,-34.82,138.81,reservoirvolumesformay2023.csv
+2023-06-30,Millbrook Reservoir,2023-06-30,15714.73,9530.39,9275.79,7929.8,-34.82,138.81,reservoirvolumesforjune2023.csv
+2023-07-31,Millbrook Reservoir,2023-07-31,15714.73,11713.37,9581.8,10894.8,-34.82,138.81,reservoirvolumesforjuly2023.csv
+2023-08-31,Millbrook Reservoir,2023-08-31,15714.73,12964.24,11540.59,12292.32,-34.82,138.81,reservoirvolumesforaugust2023.csv
+2023-09-30,Millbrook Reservoir,2023-10-03,15714.73,13179.78,13366.13,13179.78,-34.82,138.81,reservoirvolumesforseptember-2023.csv
+2023-10-31,Millbrook Reservoir,2023-10-31,15714.73,13117.99,12329.74,13189.78,-34.82,138.81,reservoirvolumesforoctober2023.csv
+2023-11-30,Millbrook Reservoir,2023-11-30,15714.73,12629.62,15110.12,12835.22,-34.82,138.81,reservoirvolumesfornovember2023.csv
+2024-01-31,Millbrook Reservoir,2024-01-31,15714.73,11031.08,12092.8,11138.48,-34.82,138.81,reservoirvolumesforjanuary2024.csv
+2024-02-29,Millbrook Reservoir,2024-02-29,15714.73,9402.58,9998.87,9851.35,-34.82,138.81,reservoirvolumesforfebruary2024.csv
+2024-03-31,Millbrook Reservoir,2024-04-04,15714.73,9200.19,8440.17,9212.77,-34.82,138.81,reservoir-volumes-for-march-2024.csv
+2024-05-31,Millbrook Reservoir,2024-05-31,15714.73,6991.83,7404.98,7067.73,-34.82,138.81,reservoirvolumesformay2024.csv
+2024-06-30,Millbrook Reservoir,2024-06-30,15714.73,7185.77,9530.39,7059.09,-34.82,138.81,reservoirvolumesforjune2024.csv
+2024-08-31,Millbrook Reservoir,2024-08-31,15714.73,7628.1,12964.24,7537.11,-34.82,138.81,reservoir-volumes-for-august-2024.csv
+2024-09-30,Millbrook Reservoir,2024-09-30,15714.73,8132.87,13179.78,7770.78,-34.82,138.81,reservoirvolumesforseptember2024.csv
+2024-10-31,Millbrook Reservoir,2024-10-31,15714.73,8876.78,13117.99,8569.36,-34.82,138.81,reservoir-volumes-for-october-2024.csv
+2025-01-31,Millbrook Reservoir,2025-01-31,15714.73,9175.07,11031.08,9334.02,-34.82,138.81,reservoirvolumesforjanuary2025.csv
+2025-02-28,Millbrook Reservoir,2025-02-28,15714.73,8321.18,9402.58,8591.26,-34.82,138.81,reservoirvolumesforfebruary2025.csv
+2025-03-31,Millbrook Reservoir,2025-03-31,15714.73,7809.44,9225.35,8243.15,-34.82,138.81,reservoirvolumesformarch2025.csv
+2025-04-30,Millbrook Reservoir,2025-04-30,15714.73,8656.85,7786.64,7997.76,-34.82,138.81,reservoirvolumesforapril2025.csv
+2025-05-31,Millbrook Reservoir,2025-05-31,15714.73,9351.74,6991.83,8598.85,-34.82,138.81,reservoir-volumes-for-may-2025.csv
+2025-06-30,Millbrook Reservoir,2025-06-30,15714.73,9711.02,7185.77,9624.98,-34.82,138.81,reservoir-volumes-for-june-2025.csv
+2025-07-31,Millbrook Reservoir,2025-07-31,15714.73,10562.04,7427.11,9943.2,-34.82,138.81,reservoir-volumes-for-july-2025.csv
+2025-08-31,Millbrook Reservoir,2025-08-31,15714.73,12122.27,7628.1,10831.76,-34.82,138.81,reservoir-volumes-for-august-2025.csv
+2025-09-30,Millbrook Reservoir,2025-09-30,15714.73,12659.84,8132.87,12588.5,-34.82,138.81,reservoir-volumes-for-september-2025.csv
+2025-10-31,Millbrook Reservoir,2025-10-31,15714.73,12240.58,8876.78,12449.31,-34.82,138.81,reservoir-volumes-for-october-2025.csv
+2025-11-30,Millbrook Reservoir,2025-11-30,15714.73,11916.82,9225.35,12148.43,-34.82,138.81,reservoir-volumes-for-november-2025.csv
+2025-12-31,Millbrook Reservoir,2025-12-31,15714.73,11684.47,9504.75,11847.57,-34.82,138.81,reservoir-volumes-for-december-2025.csv
+2026-01-31,Millbrook Reservoir,2026-01-31,15714.73,10726.24,9175.07,11294.83,-34.82,138.81,reservoir-volumes-for-january-2026.csv
+2026-02-28,Millbrook Reservoir,2026-02-28,15714.73,9377.14,8321.18,10091.12,-34.82,138.81,reservoir-volumes-for-february-2026.csv
+2026-03-31,Millbrook Reservoir,2026-03-31,15714.73,9275.79,7809.44,9306,-34.82,138.81,reservoir-volumes-for-march-2026.csv
+2026-04-30,Millbrook Reservoir,2026-04-30,15714.73,9275.79,8656.85,9290.95,-34.82,138.81,reservoir-volumes-for-april-2026.csv
+2026-05-31,Millbrook Reservoir,2026-05-31,15714.73,8536.07,9351.74,9091.31,-34.82,138.81,reservoir-volumes-for-may-2026.csv
+2026-06-30,Millbrook Reservoir,2026-06-30,15714.73,8950.81,9711.02,8765.37,-34.82,138.81,reservoirvolumesforjune2026.csv
+2026-07-31,Millbrook Reservoir,2026-08-12,15714.73,11771.29,10643.95,10490.56,-34.82,138.81,reservoirvolumesforjuly2026.csv
+2026-08-31,Millbrook Reservoir,2026-08-31,15714.73,14255.4,12122.27,12122.01,-34.82,138.81,reservoirvolumesforaugust2026.csv
+2026-09-30,Millbrook Reservoir,2026-09-30,15714.73,14223.08,12659.84,14663.67,-34.82,138.81,reservoirvolumesforseptember2026.csv
+2018-05-31,Mt Bold Reservoir,2018-05-31,46545,10282.63,15514.19,12271.84,-35.12,138.71,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Mt Bold Reservoir,2018-07-02,46545,7082.65,13125.33,7118.73,-35.12,138.71,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Mt Bold Reservoir,2018-07-30,46545,9670.43,20844.85,7723.75,-35.12,138.71,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Mt Bold Reservoir,2018-08-31,46545,24771.19,41848.37,20104.05,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Mt Bold Reservoir,2018-09-29,46545,26105.9,42590.57,25619.51,-35.12,138.71,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Mt Bold Reservoir,2018-10-31,46545,29090.24,41452,27968.76,-35.12,138.71,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Mt Bold Reservoir,2018-11-30,46545,28146.94,38633.14,29254.17,-35.12,138.71,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Mt Bold Reservoir,2019-01-02,46545,24120.36,37031.31,24120.36,-35.12,138.71,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Mt Bold Reservoir,2019-01-31,46545,16920.34,31845.28,21028.59,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Mt Bold Reservoir,2019-02-28,46545,12908.79,26318.45,14919.63,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Mt Bold Reservoir,2019-03-31,46400.02,11065.42,19162.92,11544.35,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Mt Bold Reservoir,2019-04-30,46400.02,11041.13,13873.77,10799.95,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Mt Bold Reservoir,2019-05-31,46400.02,11963.57,10282.63,11868.27,-35.12,138.71,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Mt Bold Reservoir,2019-06-30,46400.02,13593.38,7136.73,11918.45,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Mt Bold Reservoir,2019-07-31,46400.02,13761.16,9916.81,13385.03,-35.12,138.71,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Mt Bold Reservoir,2019-09-02,46400.02,23799.05,24976.83,23919.42,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Mt Bold Reservoir,2019-09-30,46400.02,26148.32,26233.3,24926.74,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Mt Bold Reservoir,2019-12-02,46400.02,25142.11,27660.59,25142.11,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Mt Bold Reservoir,2020-01-01,46400.02,19093.35,24120.4,19093.35,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Mt Bold Reservoir,2020-02-03,46400.02,17769.21,16601,17880.12,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Mt Bold Reservoir,2020-03-10,46400.02,12092.02,11608.75,12964.83,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Mt Bold Reservoir,2020-03-31,46400.02,8643.51,11065.42,11082.65,-35.12,138.71,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Mt Bold Reservoir,2020-04-30,46400.02,1641.92,11041.13,5334.57,-35.12,138.71,reservoirvolumesforapril2020.csv
+2020-05-31,Mt Bold Reservoir,2020-05-31,46400.02,204.23,11963.57,366.66,-35.12,138.71,reservoirvolumesformay2020.csv
+2020-06-30,Mt Bold Reservoir,2020-06-30,46400.02,12535.55,13593.38,6273.82,-35.12,138.71,reservoirvolumesforjune2020.csv
+2020-07-31,Mt Bold Reservoir,2020-08-02,46400.02,11089.74,13873.77,11065.44,-35.12,138.71,reservoirvolumesforjuly2020.csv
+2020-08-31,Mt Bold Reservoir,2020-08-31,46400.02,23401.25,24160.72,15252.3,-35.12,138.71,reservoirvolumesforaugust2020.csv
+2020-09-30,Mt Bold Reservoir,2020-09-30,46400.02,30285.19,26148.32,26119.32,-35.12,138.71,reservoirvolumesforseptember2020.csv
+2020-10-31,Mt Bold Reservoir,2020-11-01,46400.02,34909.08,26833.01,34909.08,-35.12,138.71,reservoirvolumesforoctober2020.csv
+2020-11-30,Mt Bold Reservoir,2020-11-30,46400.02,30471.7,25142.11,33097.89,-35.12,138.71,reservoirvolumesfornovember2020.csv
+2020-12-31,Mt Bold Reservoir,2021-01-03,46400.02,25433.02,18816.72,25530.55,-35.12,138.71,reservoirvolumesfordecember2020.csv
+2021-01-31,Mt Bold Reservoir,2021-02-01,46400.02,19974.65,17968.94,19974.65,-35.12,138.71,reservoirvolumesforjanuary2021.csv
+2021-02-28,Mt Bold Reservoir,2021-03-01,46400.02,18069.34,13761.16,18069.34,-35.12,138.71,reservoir-volumes-for-february-2021.csv
+2021-03-31,Mt Bold Reservoir,2021-03-31,46400.02,15393.02,8643.51,16637.11,-35.12,138.71,reservoirvolumesformarch2021.csv
+2021-04-30,Mt Bold Reservoir,2021-04-30,46400.02,12092.02,1641.92,13824.81,-35.12,138.71,reservoirvolumesforapril2021.csv
+2021-05-31,Mt Bold Reservoir,2021-05-31,46400.02,9362.87,204.23,11019.41,-35.11,138.7,reservoirvolumesformay2021.csv
+2021-06-30,Mt Bold Reservoir,2021-06-30,46400.02,12377.8,12535.55,10302.26,-35.11,138.7,reservoirvolumesforjune2021.csv
+2021-07-31,Mt Bold Reservoir,2021-08-01,46400.02,30425,11041.13,30425,-35.11,138.7,reservoirvolumesforjuly2021.csv
+2021-08-31,Mt Bold Reservoir,2021-08-31,46400.02,35882.97,23401.25,34944.54,-35.11,138.7,reservoirvolumesforaugust2021.csv
+2021-09-30,Mt Bold Reservoir,2021-09-30,46400.02,36506.58,30285.19,35814.44,-35.11,138.7,reservoirvolumesforseptember2021.csv
+2021-10-31,Mt Bold Reservoir,2021-11-01,46400.02,36925.99,34909.08,36925.99,-35.11,138.7,reservoirvolumesforoctober2021.csv
+2021-11-30,Mt Bold Reservoir,2021-11-30,46400.02,34554.43,30471.7,35851.95,-35.11,138.7,reservoirvolumesfornovember2021.csv
+2021-12-31,Mt Bold Reservoir,2022-01-11,46400.02,24485.1,24485.1,25240.52,-35.11,138.7,reservoirvolumesfordecember2021.csv
+2022-01-31,Mt Bold Reservoir,2022-01-31,46400.02,21029.14,20262.07,23435.16,-35.11,138.7,reservoirvolumesforjanuary2022.csv
+2022-02-28,Mt Bold Reservoir,2022-03-03,46400.02,17243.64,18002.36,17396.11,-35.11,138.7,reservoirvolumesforfebruary2022.csv
+2022-03-31,Mt Bold Reservoir,2022-04-04,46400.02,13152.56,15152.54,13462.59,-35.11,138.7,reservoirvolumesformarch2022.csv
+2022-04-30,Mt Bold Reservoir,2022-05-02,46400.02,9168.66,12169.52,9115.31,-35.11,138.7,reservoirvolumesforapril2022.csv
+2022-05-31,Mt Bold Reservoir,2022-05-31,46400.02,8540.98,9362.87,9193.85,-35.11,138.7,reservoirvolumesformay2022.csv
+2022-06-30,Mt Bold Reservoir,2022-06-30,46400.02,11359.63,12377.8,11706.52,-35.11,138.7,reservoirvolumesforjune2022.csv
+2022-07-31,Mt Bold Reservoir,2022-08-01,46400.02,13845.56,30425,13845.56,-35.11,138.7,reservoirvolumesjuly2022.csv
+2022-08-31,Mt Bold Reservoir,2022-08-31,46400.02,30192.2,35882.97,22678.2,-35.11,138.7,reservoirvolumesforaugust2022.csv
+2022-09-30,Mt Bold Reservoir,2022-09-30,46400.02,42132.89,36506.58,36137.11,-35.11,138.7,reservoirvolumesforseptermber2022.csv
+2022-10-31,Mt Bold Reservoir,2022-11-01,46400.02,42590.57,36925.99,42590.57,-35.11,138.7,reservoirvolumesforoctober2022.csv
+2022-11-30,Mt Bold Reservoir,2022-11-30,46400.02,43456.79,34554.43,43411.2,-35.11,138.7,reservoirvolumesfornovember2022.csv
+2022-12-31,Mt Bold Reservoir,2023-01-09,46400.02,37880.45,24894.44,38616.29,-35.11,138.7,reservoirvolumesfordecember2022.csv
+2023-01-31,Mt Bold Reservoir,2023-01-31,46400.02,31272.33,21029.14,35371.85,-35.11,138.7,reservoirvolumesforjanuary2023.csv
+2023-02-28,Mt Bold Reservoir,2023-02-28,46400.02,23520.15,17538.02,27688.89,-35.11,138.7,reservoirvolumesforfebruary2023.csv
+2023-03-31,Mt Bold Reservoir,2023-04-03,46400.02,18170.11,13399.35,18181.36,-35.11,138.7,reservoirvolumesformarch2023.csv
+2023-04-30,Mt Bold Reservoir,2023-05-01,46400.02,14416.91,9061.96,14416.91,-35.11,138.7,reservoirvolumesforapril2023.csv
+2023-05-31,Mt Bold Reservoir,2023-05-31,46400.02,11187.38,8540.98,12428.62,-35.11,138.7,reservoirvolumesformay2023.csv
+2023-06-30,Mt Bold Reservoir,2023-06-30,46400.02,27792.7,11359.63,15569.11,-35.11,138.7,reservoirvolumesforjune2023.csv
+2023-07-31,Mt Bold Reservoir,2023-07-31,46400.02,33603.05,13733.11,32076.65,-35.11,138.7,reservoirvolumesforjuly2023.csv
+2023-08-31,Mt Bold Reservoir,2023-08-31,46400.02,35779.68,30192.2,34379.31,-35.11,138.7,reservoirvolumesforaugust2023.csv
+2023-09-30,Mt Bold Reservoir,2023-10-03,46400.02,35573.64,42247.03,35573.65,-35.11,138.7,reservoirvolumesforseptember-2023.csv
+2023-10-31,Mt Bold Reservoir,2023-10-31,46400.02,34554.43,42247.03,35126.71,-35.11,138.7,reservoirvolumesforoctober2023.csv
+2023-11-30,Mt Bold Reservoir,2023-11-30,46400.02,31177.47,43456.79,32164.48,-35.11,138.7,reservoirvolumesfornovember2023.csv
+2024-01-31,Mt Bold Reservoir,2024-01-31,46400.02,27969.47,31272.33,30548.78,-35.11,138.7,reservoirvolumesforjanuary2024.csv
+2024-02-29,Mt Bold Reservoir,2024-02-29,46400.02,22348.37,23520.15,25402.76,-35.11,138.7,reservoirvolumesforfebruary2024.csv
+2024-03-31,Mt Bold Reservoir,2024-04-04,46400.02,17538.02,17968.94,17661.91,-35.11,138.7,reservoir-volumes-for-march-2024.csv
+2024-05-31,Mt Bold Reservoir,2024-05-31,46400.02,10681.09,11187.38,13054.27,-35.11,138.7,reservoirvolumesformay2024.csv
+2024-06-30,Mt Bold Reservoir,2024-06-30,46400.02,13016.76,27792.7,11472.39,-35.11,138.7,reservoirvolumesforjune2024.csv
+2024-08-31,Mt Bold Reservoir,2024-08-31,46400.02,20082.12,35779.68,17122.18,-35.11,138.7,reservoir-volumes-for-august-2024.csv
+2024-09-30,Mt Bold Reservoir,2024-09-30,46400.02,21363.48,35368.34,20950.86,-35.11,138.7,reservoirvolumesforseptember2024.csv
+2024-10-31,Mt Bold Reservoir,2024-10-31,46400.02,21066.12,34554.43,20370.04,-35.11,138.7,reservoir-volumes-for-october-2024.csv
+2025-01-31,Mt Bold Reservoir,2025-01-31,46400.02,13958.62,27969.47,14250.28,-35.11,138.7,reservoirvolumesforjanuary2025.csv
+2025-02-28,Mt Bold Reservoir,2025-02-28,46400.02,15152.54,22695.91,14329.55,-35.11,138.7,reservoirvolumesforfebruary2025.csv
+2025-03-31,Mt Bold Reservoir,2025-03-31,46400.02,15575,18002.36,15895.07,-35.11,138.7,reservoirvolumesformarch2025.csv
+2025-04-30,Mt Bold Reservoir,2025-04-30,46400.02,13207.14,15212.43,14193.51,-35.11,138.7,reservoirvolumesforapril2025.csv
+2025-05-31,Mt Bold Reservoir,2025-05-31,46400.02,9714.92,10681.09,11871.68,-35.11,138.7,reservoir-volumes-for-may-2025.csv
+2025-06-30,Mt Bold Reservoir,2025-06-30,46400.02,11633.86,13016.76,10483.1,-35.11,138.7,reservoir-volumes-for-june-2025.csv
+2025-07-31,Mt Bold Reservoir,2025-07-31,46400.02,25936.64,15575,14880.21,-35.11,138.7,reservoir-volumes-for-july-2025.csv
+2025-08-31,Mt Bold Reservoir,2025-08-31,46400.02,28863.88,20082.12,25665.02,-35.11,138.7,reservoir-volumes-for-august-2025.csv
+2025-09-30,Mt Bold Reservoir,2025-09-30,46400.02,32085.92,21363.48,31418.46,-35.11,138.7,reservoir-volumes-for-september-2025.csv
+2025-10-31,Mt Bold Reservoir,2025-10-31,46400.02,33901.71,21066.12,33234.54,-35.11,138.7,reservoir-volumes-for-october-2025.csv
+2025-11-30,Mt Bold Reservoir,2025-11-30,46400.02,35501.7,20189.97,34754.87,-35.11,138.7,reservoir-volumes-for-november-2025.csv
+2025-12-31,Mt Bold Reservoir,2025-12-31,46400.02,31510.28,15819.82,34352.45,-35.11,138.7,reservoir-volumes-for-december-2025.csv
+2026-01-31,Mt Bold Reservoir,2026-01-31,46400.02,23282.74,13958.62,27446.19,-35.11,138.7,reservoir-volumes-for-january-2026.csv
+2026-02-28,Mt Bold Reservoir,2026-02-28,46400.02,18136.48,15152.54,20215.4,-35.11,138.7,reservoir-volumes-for-february-2026.csv
+2026-03-31,Mt Bold Reservoir,2026-03-31,46400.02,15881.42,15575,17110.72,-35.11,138.7,reservoir-volumes-for-march-2026.csv
+2026-04-30,Mt Bold Reservoir,2026-04-30,46400.02,15453.53,13207.14,15994.44,-35.11,138.7,reservoir-volumes-for-april-2026.csv
+2026-05-31,Mt Bold Reservoir,2026-05-31,46400.02,14474.88,9714.92,15622.84,-35.11,138.7,reservoir-volumes-for-may-2026.csv
+2026-06-30,Mt Bold Reservoir,2026-06-30,46400.02,17736.06,11633.86,16427.42,-35.11,138.7,reservoirvolumesforjune2026.csv
+2026-07-31,Mt Bold Reservoir,2026-08-12,46400.02,42304.17,25266.53,34323.11,-35.11,138.7,reservoirvolumesforjuly2026.csv
+2026-08-31,Mt Bold Reservoir,2026-08-31,46400.02,43689.57,28863.88,40064,-35.11,138.7,reservoirvolumesforaugust2026.csv
+2026-09-30,Mt Bold Reservoir,2026-09-30,46400.02,42018.95,32085.92,43177.35,-35.11,138.7,reservoirvolumesforseptember2026.csv
+2018-05-31,Myponga Reservoir,2018-05-31,27565,21725.52,23625.84,21743.88,-35.4,138.44,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Myponga Reservoir,2018-07-02,27565,21888.48,23669.78,21888.48,-35.4,138.44,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Myponga Reservoir,2018-07-30,27565,22135.06,25070.06,21966.43,-35.4,138.44,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Myponga Reservoir,2018-08-31,27565,24024.01,25537.91,23536.47,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Myponga Reservoir,2018-09-29,27565,24113.34,26109.99,24141.14,-35.4,138.44,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Myponga Reservoir,2018-10-31,27565,23890.6,26061.87,24016.86,-35.4,138.44,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Myponga Reservoir,2018-11-30,27565,23450.85,25537.91,23649.64,-35.4,138.44,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Myponga Reservoir,2019-01-02,27565,22805.33,24839.13,22826.59,-35.4,138.44,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Myponga Reservoir,2019-01-31,27565,21766.15,23846.28,22307.14,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Myponga Reservoir,2019-02-28,27565,20888.43,23061.53,21289.46,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Myponga Reservoir,2019-03-31,27565.21,20043.92,22300.88,20411.4,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Myponga Reservoir,2019-04-30,27565.21,19376.87,21725.52,19690.77,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Myponga Reservoir,2019-05-31,27565.21,19413.38,21725.52,19382.78,-35.4,138.44,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Myponga Reservoir,2019-06-30,27565.21,20043.92,21888.48,19599.96,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Myponga Reservoir,2019-07-31,27565.21,21970.38,22176.4,20973.86,-35.4,138.44,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Myponga Reservoir,2019-09-02,27565.21,23979.46,24113.34,23979.47,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Myponga Reservoir,2019-09-30,27565.21,24202.97,24113.34,24088.1,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Myponga Reservoir,2019-12-02,27565.21,23363.81,23407.29,23363.81,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Myponga Reservoir,2020-01-01,27565.21,22342.52,22847.8,22342.52,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Myponga Reservoir,2020-02-03,27565.21,21523.41,21644.5,21563.72,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Myponga Reservoir,2020-03-10,27565.21,20654.86,20577.55,20751.99,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Myponga Reservoir,2020-03-31,27565.21,20195.05,20043.92,20521.31,-35.4,138.44,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Myponga Reservoir,2020-04-30,27565.21,19931.27,19376.87,19984.03,-35.4,138.44,reservoirvolumesforapril2020.csv
+2020-05-31,Myponga Reservoir,2020-05-31,27565.21,20195.05,19413.38,20067.21,-35.4,138.44,reservoirvolumesformay2020.csv
+2020-06-30,Myponga Reservoir,2020-06-30,27565.21,22975.83,20043.92,21219.69,-35.4,138.44,reservoirvolumesforjune2020.csv
+2020-07-31,Myponga Reservoir,2020-08-02,27565.21,24383.17,21970.38,24360.59,-35.4,138.44,reservoirvolumesforjuly2020.csv
+2020-08-31,Myponga Reservoir,2020-08-31,27565.21,25870.2,23934.99,25084.81,-35.4,138.44,reservoirvolumesforaugust2020.csv
+2020-09-30,Myponga Reservoir,2020-09-30,27565.21,26158.19,24202.97,25934.04,-35.4,138.44,reservoirvolumesforseptember2020.csv
+2020-10-31,Myponga Reservoir,2020-11-01,27565.21,27239.71,23934.99,27239.71,-35.4,138.44,reservoirvolumesforoctober2020.csv
+2020-11-30,Myponga Reservoir,2020-11-30,27565.21,26743.1,23407.29,27034.64,-35.4,138.44,reservoirvolumesfornovember2020.csv
+2020-12-31,Myponga Reservoir,2021-01-03,27565.21,25774.85,22259.32,25822.51,-35.4,138.44,reservoirvolumesfordecember2020.csv
+2021-01-31,Myponga Reservoir,2021-02-01,27565.21,24793.18,21604.04,24793.18,-35.4,138.44,reservoirvolumesforjanuary2021.csv
+2021-02-28,Myponga Reservoir,2021-03-01,27565.21,24158.12,20849.33,24158.12,-35.4,138.44,reservoir-volumes-for-february-2021.csv
+2021-03-31,Myponga Reservoir,2021-03-31,27565.21,23494.48,20195.05,23797.05,-35.4,138.44,reservoirvolumesformarch2021.csv
+2021-04-30,Myponga Reservoir,2021-04-30,27565.21,22933.1,19931.27,23153.77,-35.4,138.44,reservoirvolumesforapril2021.csv
+2021-05-31,Myponga Reservoir,2021-05-31,27565.21,22593.86,20195.05,22731.68,-35.39,138.43,reservoirvolumesformay2021.csv
+2021-06-30,Myponga Reservoir,2021-06-30,27565.21,23233.81,22975.83,22738.7,-35.39,138.43,reservoirvolumesforjune2021.csv
+2021-07-31,Myponga Reservoir,2021-08-01,27565.21,26595.75,24338.01,26595.75,-35.39,138.43,reservoirvolumesforjuly2021.csv
+2021-08-31,Myponga Reservoir,2021-08-31,27565.21,26792.38,25870.2,26571.18,-35.39,138.43,reservoirvolumesforaugust2021.csv
+2021-09-30,Myponga Reservoir,2021-09-30,27565.21,26546.8,26158.19,26809.26,-35.39,138.43,reservoirvolumesforseptember2021.csv
+2021-10-31,Myponga Reservoir,2021-11-01,27565.21,26940.73,27239.71,26940.73,-35.39,138.43,reservoirvolumesforoctober2021.csv
+2021-11-30,Myponga Reservoir,2021-11-30,27565.21,26891.2,26743.1,26920.93,-35.39,138.43,reservoirvolumesfornovember2021.csv
+2021-12-31,Myponga Reservoir,2022-01-11,27565.21,25632.44,25443.7,25723.14,-35.39,138.43,reservoirvolumesfordecember2021.csv
+2022-01-31,Myponga Reservoir,2022-01-31,27565.21,25116.49,24839.13,25432.77,-35.39,138.43,reservoirvolumesforjanuary2022.csv
+2022-02-28,Myponga Reservoir,2022-03-03,27565.21,24247.91,24113.34,24262.91,-35.39,138.43,reservoirvolumesforfebruary2022.csv
+2022-03-31,Myponga Reservoir,2022-04-04,27565.21,23450.85,23363.81,23494.5,-35.39,138.43,reservoirvolumesformarch2022.csv
+2022-04-30,Myponga Reservoir,2022-05-02,27565.21,23018.64,22933.1,23018.64,-35.39,138.43,reservoirvolumesforapril2022.csv
+2022-05-31,Myponga Reservoir,2022-05-31,27565.21,22890.43,22593.86,22900.13,-35.39,138.43,reservoirvolumesformay2022.csv
+2022-06-30,Myponga Reservoir,2022-06-30,27565.21,23757.88,23233.81,23373.74,-35.39,138.43,reservoirvolumesforjune2022.csv
+2022-07-31,Myponga Reservoir,2022-08-01,27565.21,24158.12,26595.75,24158.12,-35.39,138.43,reservoirvolumesjuly2022.csv
+2022-08-31,Myponga Reservoir,2022-08-31,27565.21,26254.85,26792.38,25541.28,-35.39,138.43,reservoirvolumesforaugust2022.csv
+2022-09-30,Myponga Reservoir,2022-09-30,27565.21,25070.06,26546.8,25782.78,-35.39,138.43,reservoirvolumesforseptermber2022.csv
+2022-10-31,Myponga Reservoir,2022-11-01,27565.21,25349.81,26940.73,25349.81,-35.39,138.43,reservoirvolumesforoctober2022.csv
+2022-11-30,Myponga Reservoir,2022-11-30,27565.21,25162.99,26891.2,25116.08,-35.39,138.43,reservoirvolumesfornovember2022.csv
+2022-12-31,Myponga Reservoir,2023-01-09,27565.21,24292.92,25632.44,24433.59,-35.39,138.43,reservoirvolumesfordecember2022.csv
+2023-01-31,Myponga Reservoir,2023-01-31,27565.21,23538.19,25116.49,24021.72,-35.39,138.43,reservoirvolumesforjanuary2023.csv
+2023-02-28,Myponga Reservoir,2023-02-28,27565.21,22678.23,24338.01,23130.29,-35.39,138.43,reservoirvolumesforfebruary2023.csv
+2023-03-31,Myponga Reservoir,2023-04-03,27565.21,22093.78,23494.48,22093.78,-35.39,138.43,reservoirvolumesformarch2023.csv
+2023-04-30,Myponga Reservoir,2023-05-01,27565.21,21970.38,23018.64,21970.39,-35.39,138.43,reservoirvolumesforapril2023.csv
+2023-05-31,Myponga Reservoir,2023-05-31,27565.21,22300.88,22890.43,22129.18,-35.39,138.43,reservoirvolumesformay2023.csv
+2023-06-30,Myponga Reservoir,2023-06-30,27565.21,24428.41,23757.88,23297.87,-35.39,138.43,reservoirvolumesforjune2023.csv
+2023-07-31,Myponga Reservoir,2023-07-31,27565.21,24292.92,24158.12,24189.27,-35.39,138.43,reservoirvolumesforjuly2023.csv
+2023-08-31,Myponga Reservoir,2023-08-31,27565.21,24931.26,26254.85,24736.2,-35.39,138.43,reservoirvolumesforaugust2023.csv
+2023-09-30,Myponga Reservoir,2023-10-03,27565.21,24977.45,25070.06,24977.45,-35.39,138.43,reservoirvolumesforseptember-2023.csv
+2023-10-31,Myponga Reservoir,2023-10-31,27565.21,24701.52,25256.24,24830.37,-35.39,138.43,reservoirvolumesforoctober2023.csv
+2023-11-30,Myponga Reservoir,2023-11-30,27565.21,24068.64,25162.99,24260.6,-35.39,138.43,reservoirvolumesfornovember2023.csv
+2024-01-31,Myponga Reservoir,2024-01-31,27565.21,23320.4,23538.19,23568.43,-35.39,138.43,reservoirvolumesforjanuary2024.csv
+2024-02-29,Myponga Reservoir,2024-02-29,27565.21,19413.38,22678.23,21803.59,-35.39,138.43,reservoirvolumesforfebruary2024.csv
+2024-03-31,Myponga Reservoir,2024-04-04,27565.21,18450.05,22093.78,18484.93,-35.39,138.43,reservoir-volumes-for-march-2024.csv
+2024-05-31,Myponga Reservoir,2024-05-31,27565.21,17665.05,22300.88,17853.13,-35.39,138.43,reservoirvolumesformay2024.csv
+2024-06-30,Myponga Reservoir,2024-06-30,27565.21,18207.74,24428.41,17749.1,-35.39,138.43,reservoirvolumesforjune2024.csv
+2024-08-31,Myponga Reservoir,2024-08-31,27565.21,19159.19,24931.26,18914.93,-35.39,138.43,reservoir-volumes-for-august-2024.csv
+2024-09-30,Myponga Reservoir,2024-09-30,27565.21,19340.43,25023.72,19272.63,-35.39,138.43,reservoirvolumesforseptember2024.csv
+2024-10-31,Myponga Reservoir,2024-10-31,27565.21,19015.35,24701.52,19214.22,-35.39,138.43,reservoir-volumes-for-october-2024.csv
+2025-01-31,Myponga Reservoir,2025-01-31,27565.21,16436.51,23320.4,17000.52,-35.39,138.43,reservoirvolumesforjanuary2025.csv
+2025-02-28,Myponga Reservoir,2025-02-28,27565.21,15405.84,19449.95,15900.89,-35.39,138.43,reservoirvolumesforfebruary2025.csv
+2025-03-31,Myponga Reservoir,2025-03-31,27565.21,14519.32,18589.88,14926.86,-35.39,138.43,reservoirvolumesformarch2025.csv
+2025-04-30,Myponga Reservoir,2025-04-30,27565.21,13866.1,18104.8,14161.45,-35.39,138.43,reservoirvolumesforapril2025.csv
+2025-05-31,Myponga Reservoir,2025-05-31,27565.21,13549.91,17665.05,13673.57,-35.39,138.43,reservoir-volumes-for-may-2025.csv
+2025-06-30,Myponga Reservoir,2025-06-30,27565.21,13576,18207.74,13548.21,-35.39,138.43,reservoir-volumes-for-june-2025.csv
+2025-07-31,Myponga Reservoir,2025-07-31,27565.21,15852.82,18695.4,14130.02,-35.39,138.43,reservoir-volumes-for-july-2025.csv
+2025-08-31,Myponga Reservoir,2025-08-31,27565.21,16815.51,19159.19,16142.84,-35.39,138.43,reservoir-volumes-for-august-2025.csv
+2025-09-30,Myponga Reservoir,2025-09-30,27565.21,17268.06,19340.43,17213.86,-35.39,138.43,reservoir-volumes-for-september-2025.csv
+2025-10-31,Myponga Reservoir,2025-10-31,27565.21,17137.61,19015.35,17217.54,-35.39,138.43,reservoir-volumes-for-october-2025.csv
+2025-11-30,Myponga Reservoir,2025-11-30,27565.21,16975.84,18415.25,17021.1,-35.39,138.43,reservoir-volumes-for-november-2025.csv
+2025-12-31,Myponga Reservoir,2025-12-31,27565.21,16188.33,17531.78,16635.9,-35.39,138.43,reservoir-volumes-for-december-2025.csv
+2026-01-31,Myponga Reservoir,2026-01-31,27565.21,14999.36,16436.51,15558.05,-35.39,138.43,reservoir-volumes-for-january-2026.csv
+2026-02-28,Myponga Reservoir,2026-02-28,27565.21,14134.86,15405.84,14505.32,-35.39,138.43,reservoir-volumes-for-february-2026.csv
+2026-03-31,Myponga Reservoir,2026-03-31,27565.21,13471.92,14519.32,13790.18,-35.39,138.43,reservoir-volumes-for-march-2026.csv
+2026-04-30,Myponga Reservoir,2026-04-30,27565.21,13113.49,13866.1,13274.82,-35.39,138.43,reservoir-volumes-for-april-2026.csv
+2026-05-31,Myponga Reservoir,2026-05-31,27565.21,13012.73,13549.91,13025.74,-35.39,138.43,reservoir-volumes-for-may-2026.csv
+2026-06-30,Myponga Reservoir,2026-06-30,27565.21,14999.36,13576,13905.12,-35.39,138.43,reservoirvolumesforjune2026.csv
+2026-07-31,Myponga Reservoir,2026-08-12,27565.21,20233,16035,18975.66,-35.39,138.43,reservoirvolumesforjuly2026.csv
+2026-08-31,Myponga Reservoir,2026-08-31,27565.21,25443.7,16815.51,21064.33,-35.39,138.43,reservoirvolumesforaugust2026.csv
+2026-09-30,Myponga Reservoir,2026-09-30,27565.21,25774.85,17268.06,25738.63,-35.39,138.43,reservoirvolumesforseptember2026.csv
+2018-05-31,South Para Reservoir,2018-05-31,44435,28473.83,34517.47,28961.14,-34.7,138.87,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,South Para Reservoir,2018-07-02,44435,28083.44,33169.19,28083.44,-34.7,138.87,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,South Para Reservoir,2018-07-30,44435,27369.41,33678.02,27930.94,-34.7,138.87,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,South Para Reservoir,2018-08-31,44435,26509.61,40111.12,26883.51,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,South Para Reservoir,2018-09-29,44435,25566.48,43501.03,26139.19,-34.7,138.87,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,South Para Reservoir,2018-10-31,44435,24148.25,42044.33,24873.64,-34.7,138.87,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,South Para Reservoir,2018-11-30,44435,22978.28,40038.13,23553.16,-34.7,138.87,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,South Para Reservoir,2019-01-02,44435,21118.8,37825.04,21186.61,-34.7,138.87,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,South Para Reservoir,2019-01-31,44435,18990.87,35372.71,20165.29,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,South Para Reservoir,2019-02-28,44435,17101.54,33178.09,18040.45,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,South Para Reservoir,2019-03-31,44833.97,15536.61,30968.8,16190.27,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,South Para Reservoir,2019-04-30,44833.97,14219.02,29439.78,14734.12,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,South Para Reservoir,2019-05-31,44833.97,14219.02,28473.83,13988.65,-34.7,138.87,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,South Para Reservoir,2019-06-30,44833.97,15789.45,28083.44,14995.12,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,South Para Reservoir,2019-07-31,44833.97,16454.22,27260.8,16247.17,-34.7,138.87,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,South Para Reservoir,2019-09-02,44833.97,19327.17,26509.61,19263.86,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,South Para Reservoir,2019-09-30,44833.97,20538.32,25566.48,20132.32,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,South Para Reservoir,2019-12-02,44833.97,18331.15,22978.28,18331.15,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,South Para Reservoir,2020-01-01,44833.97,16267.44,21254.4,16267.44,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,South Para Reservoir,2020-02-03,44833.97,14556.83,18700.1,14500.27,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,South Para Reservoir,2020-03-10,44833.97,12837.51,16642.63,12971.11,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,South Para Reservoir,2020-03-31,44833.97,11709.8,15536.61,12414.17,-34.7,138.87,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,South Para Reservoir,2020-04-30,44833.97,11998.32,14219.02,11585.39,-34.7,138.87,reservoirvolumesforapril2020.csv
+2020-05-31,South Para Reservoir,2020-05-31,44833.97,14019.36,14219.02,13051.01,-34.7,138.87,reservoirvolumesformay2020.csv
+2020-06-30,South Para Reservoir,2020-06-30,44833.97,16909.18,15789.45,15367.37,-34.7,138.87,reservoirvolumesforjune2020.csv
+2020-07-31,South Para Reservoir,2020-08-02,44833.97,18658.87,16529.39,18617.7,-34.7,138.87,reservoirvolumesforjuly2020.csv
+2020-08-31,South Para Reservoir,2020-08-31,44833.97,22502.92,19200.55,20136.7,-34.7,138.87,reservoirvolumesforaugust2020.csv
+2020-09-30,South Para Reservoir,2020-09-30,44833.97,24397.24,20538.32,23278.7,-34.7,138.87,reservoirvolumesforseptember2020.csv
+2020-10-31,South Para Reservoir,2020-11-01,44833.97,26192.43,19624.98,26192.43,-34.7,138.87,reservoirvolumesforoctober2020.csv
+2020-11-30,South Para Reservoir,2020-11-30,44833.97,25104.24,18331.15,25860.79,-34.7,138.87,reservoirvolumesfornovember2020.csv
+2020-12-31,South Para Reservoir,2021-01-03,44833.97,23026.21,16230.28,23074.28,-34.7,138.87,reservoirvolumesfordecember2020.csv
+2021-01-31,South Para Reservoir,2021-02-01,44833.97,21299.75,14387.13,21299.75,-34.7,138.87,reservoirvolumesforjanuary2021.csv
+2021-02-28,South Para Reservoir,2021-03-01,44833.97,19624.98,13148.63,19624.98,-34.7,138.87,reservoir-volumes-for-february-2021.csv
+2021-03-31,South Para Reservoir,2021-03-31,44833.97,18168.9,11709.8,18870,-34.7,138.87,reservoirvolumesformarch2021.csv
+2021-04-30,South Para Reservoir,2021-04-30,44833.97,16985.93,11998.32,17454.37,-34.7,138.87,reservoirvolumesforapril2021.csv
+2021-05-31,South Para Reservoir,2021-05-31,44833.97,17451.96,14019.36,16985.1,-34.7,138.86,reservoirvolumesformay2021.csv
+2021-06-30,South Para Reservoir,2021-06-30,44833.97,19327.17,16909.18,18365.44,-34.7,138.86,reservoirvolumesforjune2021.csv
+2021-07-31,South Para Reservoir,2021-08-01,44833.97,25155.3,18576.54,25155.3,-34.7,138.86,reservoirvolumesforjuly2021.csv
+2021-08-31,South Para Reservoir,2021-08-31,44833.97,29038.92,22502.92,27883.32,-34.7,138.86,reservoirvolumesforaugust2021.csv
+2021-09-30,South Para Reservoir,2021-09-30,44833.97,29728.85,24397.24,29406.53,-34.7,138.86,reservoirvolumesforseptember2021.csv
+2021-10-31,South Para Reservoir,2021-11-01,44833.97,30020.24,26192.43,30020.24,-34.7,138.86,reservoirvolumesforoctober2021.csv
+2021-11-30,South Para Reservoir,2021-11-30,44833.97,29153,25104.24,29498.14,-34.7,138.86,reservoirvolumesfornovember2021.csv
+2021-12-31,South Para Reservoir,2022-01-11,44833.97,26456.55,22550.14,26776.5,-34.7,138.86,reservoirvolumesfordecember2021.csv
+2022-01-31,South Para Reservoir,2022-01-31,44833.97,25463.23,21299.75,26222.88,-34.7,138.86,reservoirvolumesforjanuary2022.csv
+2022-02-28,South Para Reservoir,2022-03-03,44833.97,23315.25,19624.98,23412.25,-34.7,138.86,reservoirvolumesforfebruary2022.csv
+2022-03-31,South Para Reservoir,2022-04-04,44833.97,21436.18,17967.59,21584.92,-34.7,138.86,reservoirvolumesformarch2022.csv
+2022-04-30,South Para Reservoir,2022-05-02,44833.97,20362.04,16947.52,20362.04,-34.7,138.86,reservoirvolumesforapril2022.csv
+2022-05-31,South Para Reservoir,2022-05-31,44833.97,19926.1,17451.96,19931.57,-34.7,138.86,reservoirvolumesformay2022.csv
+2022-06-30,South Para Reservoir,2022-06-30,44833.97,20538.32,19327.17,20417.39,-34.7,138.86,reservoirvolumesforjune2022.csv
+2022-07-31,South Para Reservoir,2022-08-01,44833.97,21710.91,25155.3,21710.91,-34.7,138.86,reservoirvolumesjuly2022.csv
+2022-08-31,South Para Reservoir,2022-08-31,44833.97,28755.28,29038.92,24950.16,-34.7,138.86,reservoirvolumesforaugust2022.csv
+2022-09-30,South Para Reservoir,2022-09-30,44833.97,36334.6,29728.85,32769.11,-34.7,138.86,reservoirvolumesforseptermber2022.csv
+2022-10-31,South Para Reservoir,2022-11-01,44833.97,39260.14,30020.24,39260.14,-34.7,138.86,reservoirvolumesforoctober2022.csv
+2022-11-30,South Para Reservoir,2022-11-30,44833.97,44397.82,29153,43336.34,-34.7,138.86,reservoirvolumesfornovember2022.csv
+2022-12-31,South Para Reservoir,2023-01-09,44833.97,39979.2,26669.26,40310.32,-34.7,138.86,reservoirvolumesfordecember2022.csv
+2023-01-31,South Para Reservoir,2023-01-31,44833.97,38057.6,25463.23,39265.95,-34.7,138.86,reservoirvolumesforjanuary2023.csv
+2023-02-28,South Para Reservoir,2023-02-28,44833.97,35727.57,23558.09,36831.29,-34.7,138.86,reservoirvolumesforfebruary2023.csv
+2023-03-31,South Para Reservoir,2023-04-03,44833.97,33241.81,21527.48,33241.81,-34.7,138.86,reservoirvolumesformarch2023.csv
+2023-04-30,South Para Reservoir,2023-05-01,44833.97,32691.74,20362.04,32691.74,-34.7,138.86,reservoirvolumesforapril2023.csv
+2023-05-31,South Para Reservoir,2023-05-31,44833.97,31635.77,19926.1,32225.46,-34.7,138.86,reservoirvolumesformay2023.csv
+2023-06-30,South Para Reservoir,2023-06-30,44833.97,32004.88,20538.32,31661.51,-34.7,138.86,reservoirvolumesforjune2023.csv
+2023-07-31,South Para Reservoir,2023-07-31,44833.97,32315.44,21619.06,31938.29,-34.7,138.86,reservoirvolumesforjuly2023.csv
+2023-08-31,South Para Reservoir,2023-08-31,44833.97,31819.85,28755.28,32087.08,-34.7,138.86,reservoirvolumesforaugust2023.csv
+2023-09-30,South Para Reservoir,2023-10-03,44833.97,30314,36402.48,30314,-34.7,138.86,reservoirvolumesforseptember-2023.csv
+2023-10-31,South Para Reservoir,2023-10-31,44833.97,28586.15,38903.86,29527.26,-34.7,138.86,reservoirvolumesforoctober2023.csv
+2023-11-30,South Para Reservoir,2023-11-30,44833.97,26722.63,44397.82,27530.08,-34.7,138.86,reservoirvolumesfornovember2023.csv
+2024-01-31,South Para Reservoir,2024-01-31,44833.97,23558.09,38057.6,24550.38,-34.7,138.86,reservoirvolumesforjanuary2024.csv
+2024-02-29,South Para Reservoir,2024-02-29,44833.97,21664.95,35727.57,22632.54,-34.7,138.86,reservoirvolumesforfebruary2024.csv
+2024-03-31,South Para Reservoir,2024-04-04,44833.97,19200.55,33241.81,19359.13,-34.7,138.86,reservoir-volumes-for-march-2024.csv
+2024-05-31,South Para Reservoir,2024-05-31,44833.97,18494.47,31635.77,18186.61,-34.7,138.86,reservoirvolumesformay2024.csv
+2024-06-30,South Para Reservoir,2024-06-30,44833.97,20274.31,32004.88,19330.32,-34.7,138.86,reservoirvolumesforjune2024.csv
+2024-08-31,South Para Reservoir,2024-08-31,44833.97,22221.08,31819.85,22195.71,-34.7,138.86,reservoir-volumes-for-august-2024.csv
+2024-09-30,South Para Reservoir,2024-09-30,44833.97,21988.14,30255.05,22140.29,-34.7,138.86,reservoirvolumesforseptember2024.csv
+2024-10-31,South Para Reservoir,2024-10-31,44833.97,21664.95,28586.15,21813.62,-34.7,138.86,reservoir-volumes-for-october-2024.csv
+2025-01-31,South Para Reservoir,2025-01-31,44833.97,16567.07,23558.09,17766.9,-34.7,138.86,reservoirvolumesforjanuary2025.csv
+2025-02-28,South Para Reservoir,2025-02-28,44833.97,14522.76,21664.95,15487.07,-34.7,138.86,reservoirvolumesforfebruary2025.csv
+2025-03-31,South Para Reservoir,2025-03-31,44833.97,12714.76,19454.4,13565.23,-34.7,138.86,reservoirvolumesformarch2025.csv
+2025-04-30,South Para Reservoir,2025-04-30,44833.97,12382.15,17609.42,12321.82,-34.7,138.86,reservoirvolumesforapril2025.csv
+2025-05-31,South Para Reservoir,2025-05-31,44833.97,12532.44,18494.47,12398.86,-34.7,138.86,reservoir-volumes-for-may-2025.csv
+2025-06-30,South Para Reservoir,2025-06-30,44833.97,14454.82,20274.31,13508.75,-34.7,138.86,reservoir-volumes-for-june-2025.csv
+2025-07-31,South Para Reservoir,2025-07-31,44833.97,18453.54,22267.88,15641.66,-34.7,138.86,reservoir-volumes-for-july-2025.csv
+2025-08-31,South Para Reservoir,2025-08-31,44833.97,21436.18,22221.08,19547.61,-34.7,138.86,reservoir-volumes-for-august-2025.csv
+2025-09-30,South Para Reservoir,2025-09-30,44833.97,22978.28,21988.14,22511.68,-34.7,138.86,reservoir-volumes-for-september-2025.csv
+2025-10-31,South Para Reservoir,2025-10-31,44833.97,23950.37,21664.95,23347.63,-34.7,138.86,reservoir-volumes-for-october-2025.csv
+2025-11-30,South Para Reservoir,2025-11-30,44833.97,24148.25,20715.7,24036.11,-34.7,138.86,reservoir-volumes-for-november-2025.csv
+2025-12-31,South Para Reservoir,2025-12-31,44833.97,22081.11,18865.86,23259.55,-34.7,138.86,reservoir-volumes-for-december-2025.csv
+2026-01-31,South Para Reservoir,2026-01-31,44833.97,19667.79,16567.07,20893.16,-34.7,138.86,reservoir-volumes-for-january-2026.csv
+2026-02-28,South Para Reservoir,2026-02-28,44833.97,17451.96,14522.76,18403.51,-34.7,138.86,reservoir-volumes-for-february-2026.csv
+2026-03-31,South Para Reservoir,2026-03-31,44833.97,15536.61,12714.76,16519.77,-34.7,138.86,reservoir-volumes-for-march-2026.csv
+2026-04-30,South Para Reservoir,2026-04-30,44833.97,14935.76,12382.15,14997.68,-34.7,138.86,reservoir-volumes-for-april-2026.csv
+2026-05-31,South Para Reservoir,2026-05-31,44833.97,15971.99,12532.44,15507.1,-34.7,138.86,reservoir-volumes-for-may-2026.csv
+2026-06-30,South Para Reservoir,2026-06-30,44833.97,18453.54,14454.82,17438.21,-34.7,138.86,reservoirvolumesforjune2026.csv
+2026-07-31,South Para Reservoir,2026-08-12,44833.97,30610.16,19284.9,25171.85,-34.7,138.86,reservoirvolumesforjuly2026.csv
+2026-08-31,South Para Reservoir,2026-08-31,44833.97,35526.78,21436.18,30264.27,-34.7,138.86,reservoirvolumesforaugust2026.csv
+2026-09-30,South Para Reservoir,2026-09-30,44833.97,36199.1,22930.43,36272.27,-34.7,138.86,reservoirvolumesforseptember2026.csv
+2018-05-31,Warren Reservoir,2018-05-31,4711,2090.6,2275.11,1876,-34.71,138.92,sawpfsc02homeve002087desktopopen-datareservoir_capacity_volume_may_2018.csv
+2018-06-30,Warren Reservoir,2018-07-02,4711,2767.75,2275.11,2767.75,-34.71,138.92,sawpfsc02homeve002087desktopopen-datareservoirvolumesforjune2018.csv
+2018-07-31,Warren Reservoir,2018-07-30,4711,3203.37,3006.95,2981.06,-34.71,138.92,sawpfsc02homesc002322reservoir-volumes-for-july-2018.csv
+2018-08-31,Warren Reservoir,2018-08-31,4711,3656.72,4748.81,3456.3,,,sawpfsc02homeve002087desktopreservoirvolumesforaugust2018.csv
+2018-09-30,Warren Reservoir,2018-09-29,4711,3704.6,4538.61,3855.84,-34.71,138.92,sawpfsc02homeve002087desktopreservoirvolumesforseptember2018.csv
+2018-10-31,Warren Reservoir,2018-10-31,4711,3769.19,4557.41,3717.3,-34.71,138.92,sawpfsc02homeve002087desktopreservoirvolumesforoctober2018.csv
+2018-11-30,Warren Reservoir,2018-11-30,4711,4281.69,4464.01,3964.76,-34.71,138.92,sawpfsc02homeve002087desktopinternet-metro-reservoir-data-report.csv
+2018-12-31,Warren Reservoir,2019-01-02,4711,3752.96,3562.38,3769.21,-34.71,138.92,sawpfsc02homeve002087desktopreservoirvolumesfordecember2018.csv
+2019-01-31,Warren Reservoir,2019-01-31,4711,2754.89,1848.3,3317.27,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2019.csv
+2019-02-28,Warren Reservoir,2019-02-28,4711,2482.81,986.71,2582.64,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2019.csv
+2019-03-31,Warren Reservoir,2019-03-31,4731.44,3217.76,1199.25,2791.04,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesformarch2019.csv
+2019-04-30,Warren Reservoir,2019-04-30,4731.44,4140.05,1556.07,3629.61,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforapril2019.csv
+2019-05-31,Warren Reservoir,2019-05-31,4731.44,4768.29,2090.6,4600.04,-34.71,138.92,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesformay2019.csv
+2019-06-30,Warren Reservoir,2019-06-30,4731.44,4807.45,2754.89,4794.39,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforjune2019.csv
+2019-07-31,Warren Reservoir,2019-07-31,4731.44,4787.84,3203.37,4800.49,-34.71,138.92,sawpfsc02homesc002322desktopcopy-of-reservoirvolumesforjuly2019.csv
+2019-08-31,Warren Reservoir,2019-09-02,4731.44,4807.45,3720.67,4817.28,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforaugust2019.csv
+2019-09-30,Warren Reservoir,2019-09-30,4731.44,4671.51,3688.59,4775.16,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforseptember2019.csv
+2019-11-30,Warren Reservoir,2019-12-02,4731.44,4748.81,4317.68,4729.43,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesfornovember2019.csv
+2019-12-31,Warren Reservoir,2020-01-01,4731.44,3951.26,3785.47,3951.26,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesfordecember2019.csv
+2020-01-31,Warren Reservoir,2020-02-03,4731.44,3531.35,2603.93,3495.52,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforjanuary2020.csv
+2020-02-29,Warren Reservoir,2020-03-10,4731.44,3439.49,2579.37,3335.14,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesforfebruary2020.csv
+2020-03-31,Warren Reservoir,2020-03-31,4731.44,3851.13,3217.76,3502.7,-34.71,138.92,sawpfsc02homesc002322desktopreservoirvolumesformarch2020.csv
+2020-04-30,Warren Reservoir,2020-04-30,4731.44,4807.45,4140.05,4335.03,-34.71,138.92,reservoirvolumesforapril2020.csv
+2020-05-31,Warren Reservoir,2020-05-31,4731.44,4807.45,4768.29,4803.65,-34.71,138.92,reservoirvolumesformay2020.csv
+2020-06-30,Warren Reservoir,2020-06-30,4731.44,4807.45,4807.45,4805.49,-34.71,138.92,reservoirvolumesforjune2020.csv
+2020-07-31,Warren Reservoir,2020-08-02,4731.44,4807.45,4787.84,4807.45,-34.71,138.92,reservoirvolumesforjuly2020.csv
+2020-08-31,Warren Reservoir,2020-08-31,4731.44,4807.45,4807.45,4821.52,-34.71,138.92,reservoirvolumesforaugust2020.csv
+2020-09-30,Warren Reservoir,2020-09-30,4731.44,4827.12,4671.51,4808.76,-34.71,138.92,reservoirvolumesforseptember2020.csv
+2020-10-31,Warren Reservoir,2020-11-01,4731.44,4807.45,4768.29,4807.45,-34.71,138.92,reservoirvolumesforoctober2020.csv
+2020-11-30,Warren Reservoir,2020-11-30,4731.44,4671.51,4710.04,4754.16,-34.71,138.92,reservoirvolumesfornovember2020.csv
+2020-12-31,Warren Reservoir,2021-01-03,4731.44,4317.68,3884.29,4317.68,-34.71,138.92,reservoirvolumesfordecember2020.csv
+2021-01-31,Warren Reservoir,2021-02-01,4731.44,3394.25,3454.67,3394.25,-34.71,138.92,reservoirvolumesforjanuary2021.csv
+2021-02-28,Warren Reservoir,2021-03-01,4731.44,2628.66,3232.2,2628.66,-34.71,138.92,reservoir-volumes-for-february-2021.csv
+2021-03-31,Warren Reservoir,2021-03-31,4731.44,3146.3,3851.13,2723.36,-34.71,138.92,reservoirvolumesformarch2021.csv
+2021-04-30,Warren Reservoir,2021-04-30,4731.44,3985.08,4807.45,3528.84,-34.71,138.92,reservoirvolumesforapril2021.csv
+2021-05-31,Warren Reservoir,2021-05-31,4731.44,4787.84,4807.45,4553.8,-34.7,138.92,reservoirvolumesformay2021.csv
+2021-06-30,Warren Reservoir,2021-06-30,4731.44,4768.29,4807.45,4780.67,-34.7,138.92,reservoirvolumesforjune2021.csv
+2021-07-31,Warren Reservoir,2021-08-01,4731.44,4866.65,4807.45,4866.65,-34.7,138.92,reservoirvolumesforjuly2021.csv
+2021-08-31,Warren Reservoir,2021-08-31,4731.44,4787.84,4807.45,4810.06,-34.7,138.92,reservoirvolumesforaugust2021.csv
+2021-09-30,Warren Reservoir,2021-09-30,4731.44,4710.04,4827.12,4776.15,-34.7,138.92,reservoirvolumesforseptember2021.csv
+2021-10-31,Warren Reservoir,2021-11-01,4731.44,4768.29,4807.45,4768.3,-34.7,138.92,reservoirvolumesforoctober2021.csv
+2021-11-30,Warren Reservoir,2021-11-30,4731.44,4768.29,4671.51,4753.41,-34.7,138.92,reservoirvolumesfornovember2021.csv
+2021-12-31,Warren Reservoir,2022-01-11,4731.44,4335.76,4140.05,4452.46,-34.7,138.92,reservoirvolumesfordecember2021.csv
+2022-01-31,Warren Reservoir,2022-01-31,4731.44,4053.39,3424.36,4240.57,-34.7,138.92,reservoirvolumesforjanuary2022.csv
+2022-02-28,Warren Reservoir,2022-03-03,4731.44,3736.79,2603.93,3704.67,-34.7,138.92,reservoirvolumesforfebruary2022.csv
+2022-03-31,Warren Reservoir,2022-04-04,4731.44,4087.89,3290.43,4062.03,-34.7,138.92,reservoirvolumesformarch2022.csv
+2022-04-30,Warren Reservoir,2022-05-02,4731.44,4519.87,4070.61,4501.22,-34.7,138.92,reservoirvolumesforapril2022.csv
+2022-05-31,Warren Reservoir,2022-05-31,4731.44,4768.29,4787.84,4543.94,-34.7,138.92,reservoirvolumesformay2022.csv
+2022-06-30,Warren Reservoir,2022-06-30,4731.44,4787.84,4768.29,4775.48,-34.7,138.92,reservoirvolumesforjune2022.csv
+2022-07-31,Warren Reservoir,2022-08-01,4731.44,4787.84,4866.65,4787.84,-34.7,138.92,reservoirvolumesjuly2022.csv
+2022-08-31,Warren Reservoir,2022-08-31,4731.44,4807.45,4787.84,4825.44,-34.7,138.92,reservoirvolumesforaugust2022.csv
+2022-09-30,Warren Reservoir,2022-09-30,4731.44,4768.29,4710.04,4833.49,-34.7,138.92,reservoirvolumesforseptermber2022.csv
+2022-10-31,Warren Reservoir,2022-11-01,4731.44,5027.33,4768.29,5027.34,-34.7,138.92,reservoirvolumesforoctober2022.csv
+2022-11-30,Warren Reservoir,2022-11-30,4731.44,4748.81,4768.29,4839.49,-34.7,138.92,reservoirvolumesfornovember2022.csv
+2022-12-31,Warren Reservoir,2023-01-09,4731.44,3818.19,4427.07,4036.08,-34.7,138.92,reservoirvolumesfordecember2022.csv
+2023-01-31,Warren Reservoir,2023-01-31,4731.44,2412.13,4053.39,3298.41,-34.7,138.92,reservoirvolumesforjanuary2023.csv
+2023-02-28,Warren Reservoir,2023-02-28,4731.44,942.2,3656.72,1674.32,-34.7,138.92,reservoirvolumesforfebruary2023.csv
+2023-03-31,Warren Reservoir,2023-04-03,4731.44,821.75,4070.61,821.75,-34.7,138.92,reservoirvolumesformarch2023.csv
+2023-04-30,Warren Reservoir,2023-05-01,4731.44,172.04,4482.57,172.05,-34.7,138.92,reservoirvolumesforapril2023.csv
+2023-05-31,Warren Reservoir,2023-05-31,4731.44,65.13,4768.29,43.07,-34.7,138.92,reservoirvolumesformay2023.csv
+2023-06-30,Warren Reservoir,2023-06-30,4731.44,748.63,4787.84,264.09,-34.7,138.92,reservoirvolumesforjune2023.csv
+2023-07-31,Warren Reservoir,2023-07-31,4731.44,594.74,4787.84,1013.93,-34.7,138.92,reservoirvolumesforjuly2023.csv
+2023-08-31,Warren Reservoir,2023-08-31,4731.44,1156.1,4807.45,790.22,-34.7,138.92,reservoirvolumesforaugust2023.csv
+2023-09-30,Warren Reservoir,2023-10-03,4731.44,2845.86,4768.29,2845.86,-34.7,138.92,reservoirvolumesforseptember-2023.csv
+2023-10-31,Warren Reservoir,2023-10-31,4731.44,4140.05,4768.29,3479.7,-34.7,138.92,reservoirvolumesforoctober2023.csv
+2023-11-30,Warren Reservoir,2023-11-30,4731.44,4538.61,4748.81,4317.76,-34.7,138.92,reservoirvolumesfornovember2023.csv
+2024-01-31,Warren Reservoir,2024-01-31,4731.44,4281.69,2412.13,4375.42,-34.7,138.92,reservoirvolumesforjanuary2024.csv
+2024-02-29,Warren Reservoir,2024-02-29,4731.44,3394.25,942.2,3980.3,-34.7,138.92,reservoirvolumesforfebruary2024.csv
+2024-03-31,Warren Reservoir,2024-04-04,4731.44,3720.67,821.75,3680.74,-34.7,138.92,reservoir-volumes-for-march-2024.csv
+2024-05-31,Warren Reservoir,2024-05-31,4731.44,3640.87,65.13,3930.35,-34.7,138.92,reservoirvolumesformay2024.csv
+2024-06-30,Warren Reservoir,2024-06-30,4731.44,2616.27,748.63,2969.35,-34.7,138.92,reservoirvolumesforjune2024.csv
+2024-08-31,Warren Reservoir,2024-08-31,4731.44,2494.73,1156.1,2052.54,-34.7,138.92,reservoir-volumes-for-august-2024.csv
+2024-09-30,Warren Reservoir,2024-09-30,4731.44,3020.68,2666.07,2722.4,-34.7,138.92,reservoirvolumesforseptember2024.csv
+2024-10-31,Warren Reservoir,2024-10-31,4731.44,3203.37,4140.05,3212.06,-34.7,138.92,reservoir-volumes-for-october-2024.csv
+2025-01-31,Warren Reservoir,2025-01-31,4731.44,2241.74,4281.69,2565.27,-34.7,138.92,reservoirvolumesforjanuary2025.csv
+2025-02-28,Warren Reservoir,2025-02-28,4731.44,1966.86,3439.49,1947.02,-34.7,138.92,reservoirvolumesforfebruary2025.csv
+2025-03-31,Warren Reservoir,2025-03-31,4731.44,2979.64,3625.06,2429.26,-34.7,138.92,reservoirvolumesformarch2025.csv
+2025-04-30,Warren Reservoir,2025-04-30,4731.44,3275.8,4464.01,3243.8,-34.7,138.92,reservoirvolumesforapril2025.csv
+2025-05-31,Warren Reservoir,2025-05-31,4731.44,3275.8,3640.87,3273.92,-34.7,138.92,reservoir-volumes-for-may-2025.csv
+2025-06-30,Warren Reservoir,2025-06-30,4731.44,3275.8,2616.27,3277.51,-34.7,138.92,reservoir-volumes-for-june-2025.csv
+2025-07-31,Warren Reservoir,2025-07-31,4731.44,3290.43,1556.07,3304.57,-34.7,138.92,reservoir-volumes-for-july-2025.csv
+2025-08-31,Warren Reservoir,2025-08-31,4731.44,3349.46,2494.73,3298.58,-34.7,138.92,reservoir-volumes-for-august-2025.csv
+2025-09-30,Warren Reservoir,2025-09-30,4731.44,3275.8,3020.68,3290.94,-34.7,138.92,reservoir-volumes-for-september-2025.csv
+2025-10-31,Warren Reservoir,2025-10-31,4731.44,3290.43,3203.37,3289.49,-34.7,138.92,reservoir-volumes-for-october-2025.csv
+2025-11-30,Warren Reservoir,2025-11-30,4731.44,3261.22,3261.22,3277.27,-34.7,138.92,reservoir-volumes-for-november-2025.csv
+2025-12-31,Warren Reservoir,2025-12-31,4731.44,2966.06,2872.25,3165.05,-34.7,138.92,reservoir-volumes-for-december-2025.csv
+2026-01-31,Warren Reservoir,2026-01-31,4731.44,1897.08,2241.74,2453.16,-34.7,138.92,reservoir-volumes-for-january-2026.csv
+2026-02-28,Warren Reservoir,2026-02-28,4731.44,1430.42,1966.86,1588.45,-34.7,138.92,reservoir-volumes-for-february-2026.csv
+2026-03-31,Warren Reservoir,2026-03-31,4731.44,2819.64,2979.64,2110.17,-34.7,138.92,reservoir-volumes-for-march-2026.csv
+2026-04-30,Warren Reservoir,2026-04-30,4731.44,3275.8,3275.8,3186.03,-34.7,138.92,reservoir-volumes-for-april-2026.csv
+2026-05-31,Warren Reservoir,2026-05-31,4731.44,3261.22,3275.8,3264.08,-34.7,138.92,reservoir-volumes-for-may-2026.csv
+2026-06-30,Warren Reservoir,2026-06-30,4731.44,3290.43,3275.8,3291.44,-34.7,138.92,reservoirvolumesforjune2026.csv
+2026-07-31,Warren Reservoir,2026-08-12,4731.44,3364.34,3290.43,3383.96,-34.7,138.92,reservoirvolumesforjuly2026.csv
+2026-08-31,Warren Reservoir,2026-08-31,4731.44,3305.11,3349.46,3357.22,-34.7,138.92,reservoirvolumesforaugust2026.csv
+2026-09-30,Warren Reservoir,2026-09-30,4731.44,3189.03,3275.8,3256.42,-34.7,138.92,reservoirvolumesforseptember2026.csv

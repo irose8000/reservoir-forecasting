@@ -1,0 +1,151 @@
+reservoir,pred_target_month,y_true_ml,y_pred_ml
+Barossa Reservoir,2024-05-31,4066.99,4024.26
+Barossa Reservoir,2024-06-30,4002.94,4120.57
+Barossa Reservoir,2024-07-31,4034.93,4066.99
+Barossa Reservoir,2024-08-31,4013.6,4066.99
+Barossa Reservoir,2024-09-30,4024.26,3949.81
+Barossa Reservoir,2024-10-31,4099.12,4066.99
+Barossa Reservoir,2024-11-30,3981.66,4056.29
+Barossa Reservoir,2024-12-31,4088.4,4104.55
+Barossa Reservoir,2025-01-31,4120.57,4152.81
+Barossa Reservoir,2025-02-28,4120.57,4045.61
+Barossa Reservoir,2025-03-31,4066.99,4045.61
+Barossa Reservoir,2025-04-30,4077.69,4120.57
+Barossa Reservoir,2025-05-31,4056.29,4066.99
+Barossa Reservoir,2025-06-30,4034.93,4002.94
+Barossa Reservoir,2025-07-31,4131.31,4034.93
+Happy Valley Reservoir,2024-05-31,10338.57,10250.72
+Happy Valley Reservoir,2024-06-30,10279.96,10279.96
+Happy Valley Reservoir,2024-07-31,10309.24,10338.57
+Happy Valley Reservoir,2024-08-31,10163.28,10192.38
+Happy Valley Reservoir,2024-09-30,10250.72,9989.62
+Happy Valley Reservoir,2024-10-31,11424.44,10163.28
+Happy Valley Reservoir,2024-11-30,10047.33,10163.28
+Happy Valley Reservoir,2024-12-31,10723.95,10383.92
+Happy Valley Reservoir,2025-01-31,10545.13,10604.56
+Happy Valley Reservoir,2025-02-28,10221.53,10134.22
+Happy Valley Reservoir,2025-03-31,10134.22,10192.38
+Happy Valley Reservoir,2025-04-30,10485.89,9989.62
+Happy Valley Reservoir,2025-05-31,10105.21,10338.57
+Happy Valley Reservoir,2025-06-30,10250.72,10279.96
+Happy Valley Reservoir,2025-07-31,10338.57,10309.24
+Hope Valley Reservoir,2024-05-31,2464.09,2484.0
+Hope Valley Reservoir,2024-06-30,2365.88,2157.65
+Hope Valley Reservoir,2024-07-31,2365.88,2336.85
+Hope Valley Reservoir,2024-08-31,2317.61,2250.96
+Hope Valley Reservoir,2024-09-30,2346.51,2395.11
+Hope Valley Reservoir,2024-10-31,2298.46,2308.02
+Hope Valley Reservoir,2024-11-30,2308.02,2484.0
+Hope Valley Reservoir,2024-12-31,2474.03,2504.035
+Hope Valley Reservoir,2025-01-31,2544.25,2524.07
+Hope Valley Reservoir,2025-02-28,2878.93,2554.37
+Hope Valley Reservoir,2025-03-31,1708.41,2554.37
+Hope Valley Reservoir,2025-04-30,1700.36,2464.09
+Hope Valley Reservoir,2025-05-31,1757.16,2464.09
+Hope Valley Reservoir,2025-06-30,1773.59,2365.88
+Hope Valley Reservoir,2025-07-31,1848.6199999999997,2365.88
+Kangaroo Creek Reservoir,2024-05-31,4701.599999999999,8525.75
+Kangaroo Creek Reservoir,2024-06-30,4941.87,12332.53
+Kangaroo Creek Reservoir,2024-07-31,4567.49,14877.97
+Kangaroo Creek Reservoir,2024-08-31,5100.1,15268.5
+Kangaroo Creek Reservoir,2024-09-30,6014.8,14339.370000000003
+Kangaroo Creek Reservoir,2024-10-31,6343.59,13237.16
+Kangaroo Creek Reservoir,2024-11-30,6476.06,11663.22
+Kangaroo Creek Reservoir,2024-12-31,6455.57,10639.009999999998
+Kangaroo Creek Reservoir,2025-01-31,4634.26,9614.8
+Kangaroo Creek Reservoir,2025-02-28,2387.77,7218.7
+Kangaroo Creek Reservoir,2025-03-31,2410.73,4567.49
+Kangaroo Creek Reservoir,2025-04-30,2410.73,4550.88
+Kangaroo Creek Reservoir,2025-05-31,2258.13,4701.599999999999
+Kangaroo Creek Reservoir,2025-06-30,2720.56,4941.87
+Kangaroo Creek Reservoir,2025-07-31,6714.58,4567.49
+Little Para Reservoir,2024-05-31,8564.69,13408.760000000002
+Little Para Reservoir,2024-06-30,8564.69,14343.66
+Little Para Reservoir,2024-07-31,7979.199999999999,14710.740000000002
+Little Para Reservoir,2024-08-31,7749.63,14849.960000000001
+Little Para Reservoir,2024-09-30,7130.3,13982.630000000001
+Little Para Reservoir,2024-10-31,6612.8099999999995,13256.94
+Little Para Reservoir,2024-11-30,6277.75,12556.42
+Little Para Reservoir,2024-12-31,5992.45,12208.495
+Little Para Reservoir,2025-01-31,5212.18,11860.570000000002
+Little Para Reservoir,2025-02-28,4204.79,10546.04
+Little Para Reservoir,2025-03-31,3853.22,8645.93
+Little Para Reservoir,2025-04-30,4430.0,8597.13
+Little Para Reservoir,2025-05-31,5654.36,8564.69
+Little Para Reservoir,2025-06-30,7115.97,8564.69
+Little Para Reservoir,2025-07-31,8959.31,7979.199999999999
+Millbrook Reservoir,2024-05-31,6991.83,7404.98
+Millbrook Reservoir,2024-06-30,7185.77,9530.39
+Millbrook Reservoir,2024-07-31,7427.11,11713.37
+Millbrook Reservoir,2024-08-31,7628.1,12964.24
+Millbrook Reservoir,2024-09-30,8132.869999999999,13179.78
+Millbrook Reservoir,2024-10-31,8876.78,13117.99
+Millbrook Reservoir,2024-11-30,9225.35,12629.62
+Millbrook Reservoir,2024-12-31,9504.75,11830.35
+Millbrook Reservoir,2025-01-31,9175.07,11031.08
+Millbrook Reservoir,2025-02-28,8321.18,9402.58
+Millbrook Reservoir,2025-03-31,7809.44,9200.19
+Millbrook Reservoir,2025-04-30,8656.85,7786.64
+Millbrook Reservoir,2025-05-31,9351.74,6991.83
+Millbrook Reservoir,2025-06-30,9711.02,7185.77
+Millbrook Reservoir,2025-07-31,10562.04,7427.11
+Mt Bold Reservoir,2024-05-31,10681.09,11187.38
+Mt Bold Reservoir,2024-06-30,13016.76,27792.7
+Mt Bold Reservoir,2024-07-31,15575.0,33603.05
+Mt Bold Reservoir,2024-08-31,20082.12,35779.68
+Mt Bold Reservoir,2024-09-30,21363.48,35573.64
+Mt Bold Reservoir,2024-10-31,21066.12,34554.43
+Mt Bold Reservoir,2024-11-30,20189.97,31177.47
+Mt Bold Reservoir,2024-12-31,15819.820000000002,29573.47
+Mt Bold Reservoir,2025-01-31,13958.62,27969.47
+Mt Bold Reservoir,2025-02-28,15152.54,22348.37
+Mt Bold Reservoir,2025-03-31,15575.0,17538.02
+Mt Bold Reservoir,2025-04-30,13207.14,15212.43
+Mt Bold Reservoir,2025-05-31,9714.92,10681.09
+Mt Bold Reservoir,2025-06-30,11633.86,13016.76
+Mt Bold Reservoir,2025-07-31,25936.639999999996,15575.0
+Myponga Reservoir,2024-05-31,17665.05,22300.88
+Myponga Reservoir,2024-06-30,18207.74,24428.41
+Myponga Reservoir,2024-07-31,18695.4,24292.92
+Myponga Reservoir,2024-08-31,19159.19,24931.26
+Myponga Reservoir,2024-09-30,19340.43,24977.45
+Myponga Reservoir,2024-10-31,19015.35,24701.52
+Myponga Reservoir,2024-11-30,18415.25,24068.64
+Myponga Reservoir,2024-12-31,17531.78,23694.52
+Myponga Reservoir,2025-01-31,16436.51,23320.4
+Myponga Reservoir,2025-02-28,15405.840000000002,19413.38
+Myponga Reservoir,2025-03-31,14519.320000000002,18450.05
+Myponga Reservoir,2025-04-30,13866.1,18104.8
+Myponga Reservoir,2025-05-31,13549.91,17665.05
+Myponga Reservoir,2025-06-30,13576.0,18207.74
+Myponga Reservoir,2025-07-31,15852.82,18695.4
+South Para Reservoir,2024-05-31,18494.47,31635.77
+South Para Reservoir,2024-06-30,20274.31,32004.879999999997
+South Para Reservoir,2024-07-31,22267.88,32315.44
+South Para Reservoir,2024-08-31,22221.08,31819.85
+South Para Reservoir,2024-09-30,21988.14,30314.0
+South Para Reservoir,2024-10-31,21664.95,28586.15
+South Para Reservoir,2024-11-30,20715.7,26722.63
+South Para Reservoir,2024-12-31,18865.86,25140.36
+South Para Reservoir,2025-01-31,16567.07,23558.089999999997
+South Para Reservoir,2025-02-28,14522.760000000002,21664.95
+South Para Reservoir,2025-03-31,12714.76,19200.55
+South Para Reservoir,2025-04-30,12382.15,17609.42
+South Para Reservoir,2025-05-31,12532.440000000002,18494.47
+South Para Reservoir,2025-06-30,14454.82,20274.31
+South Para Reservoir,2025-07-31,18453.54,22267.88
+Warren Reservoir,2024-05-31,3640.87,65.13
+Warren Reservoir,2024-06-30,2616.27,748.63
+Warren Reservoir,2024-07-31,1556.07,594.7400000000001
+Warren Reservoir,2024-08-31,2494.73,1156.1
+Warren Reservoir,2024-09-30,3020.68,2845.86
+Warren Reservoir,2024-10-31,3203.37,4140.05
+Warren Reservoir,2024-11-30,3261.22,4538.61
+Warren Reservoir,2024-12-31,2872.2499999999995,4410.15
+Warren Reservoir,2025-01-31,2241.74,4281.69
+Warren Reservoir,2025-02-28,1966.86,3394.25
+Warren Reservoir,2025-03-31,2979.64,3720.67
+Warren Reservoir,2025-04-30,3275.8,4464.01
+Warren Reservoir,2025-05-31,3275.8,3640.87
+Warren Reservoir,2025-06-30,3275.8,2616.27
+Warren Reservoir,2025-07-31,3290.43,1556.07

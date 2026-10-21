@@ -1,0 +1,2 @@
+model,trial,n_lags,n_rain_lags,C,epsilon,gamma,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+svr,0,2,2,1.0,0.01,scale,14.306097336084244,0.02288170001702383,0.004130799992708489,539

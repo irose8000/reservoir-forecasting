@@ -1,0 +1,21 @@
+models:
+  naive: {}
+  mlr:
+    n_lags: 2
+    n_rain_lags: 2
+  svr:
+    n_lags: 2
+    n_rain_lags: 2
+    C: 1.0
+    epsilon: 0.01
+    gamma: scale
+  sarima:
+    order:
+    - 1
+    - 1
+    - 1
+    seasonal_order:
+    - 1
+    - 0
+    - 0
+    - 12

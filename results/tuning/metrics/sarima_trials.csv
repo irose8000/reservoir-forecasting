@@ -1,0 +1,2 @@
+model,trial,order,seasonal_order,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+sarima,0,"[1, 1, 1]","[1, 0, 0, 12]",12.049398482246229,1.128306500002509,0.08065709998481907,40

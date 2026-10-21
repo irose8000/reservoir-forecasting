@@ -1,0 +1,2 @@
+model,trial,n_lags,n_rain_lags,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+mlr,0,2,2,12.086342420621081,0.02737260001595132,0.0006856999825686216,18
