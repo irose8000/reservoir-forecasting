@@ -1,0 +1,2 @@
+model,trial,n_lags,n_rain_lags,hidden_sizes,learning_rate,epochs,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+ffnn,0,2,2,"[32, 16]",0.001,114,14.311298201704872,1.463574299996253,0.0003744999994523823,1121

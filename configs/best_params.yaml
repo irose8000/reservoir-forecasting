@@ -19,3 +19,17 @@ models:
     - 0
     - 0
     - 12
+  lstm:
+    n_lags: 2
+    n_rain_lags: 2
+    hidden_size: 32
+    learning_rate: 0.001
+    epochs: 26
+  ffnn:
+    n_lags: 2
+    n_rain_lags: 2
+    hidden_sizes:
+    - 32
+    - 16
+    learning_rate: 0.001
+    epochs: 114

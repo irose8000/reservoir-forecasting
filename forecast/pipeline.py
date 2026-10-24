@@ -24,6 +24,8 @@ from forecast.models.baseline.naive import SeasonalNaive
 from forecast.models.statistical_models.sarima import SARIMA
 from forecast.models.classical_ML.mlr import MLR
 from forecast.models.classical_ML.svr import SVR
+from forecast.models.neural_networks.ffnn import FFNN
+from forecast.models.neural_networks.lstm import LSTM
 
 
 # Model name (as used in default.yaml) -> model class
@@ -32,6 +34,8 @@ MODELS = {
     "sarima": SARIMA,
     "mlr": MLR,
     "svr": SVR,
+    "ffnn": FFNN,
+    "lstm": LSTM,
 }
 
 

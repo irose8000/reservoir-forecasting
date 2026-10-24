@@ -5,5 +5,5 @@ models:
   sarima: {order: [[1, 1, 1]], seasonal_order: [[1, 0, 0, 12]]}
   mlr:    {n_lags: [2], n_rain_lags: [2]}
   svr:    {n_lags: [2], n_rain_lags: [2], C: [1.0], epsilon: [0.01], gamma: [scale]}
-  ffnn:   {n_lags: [2], n_rain_lags: [2]}
-  lstm:   {n_lags: [2], n_rain_lags: [2]}
+  ffnn:   {n_lags: [2], n_rain_lags: [2], hidden_sizes: [[32, 16]], learning_rate: [0.001]}
+  lstm:   {n_lags: [2], n_rain_lags: [2], hidden_size: [32], learning_rate: [0.001]}
