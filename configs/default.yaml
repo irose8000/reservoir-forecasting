@@ -2,7 +2,9 @@
 # This way, nothing is hard-coded.
 # forecast/configure.py calls these configs
 
-seed: 42
+seed: 42                       # used by the deterministic models
+nn_seeds: [42, 43, 44, 45, 46] # FFNN / LSTM are run once per seed
+
 
 splits:
   train_end: 2024-04-30

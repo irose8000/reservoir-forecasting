@@ -5,7 +5,9 @@ Every trial fits on TRAIN and is scored on VALIDATION (pipeline.run_model with f
 import copy
 import itertools
 
+import time
 import pandas as pd
+import numpy as np
 import yaml
 
 from forecast import configure
@@ -19,61 +21,113 @@ def load_search_spaces() -> dict:
         spaces = yaml.safe_load(f) or {}
     return spaces.get("models") or {}
 
+# Per-model rules for which settings can be combined. Models not listed here are unconstrained.
+# Each rule gets the full settings dict (defaults overlaid with the trial's values).
+CONSTRAINTS = {
+    "lstm": lambda p: p["n_lags"] == p["n_rain_lags"],   # one (volume, rain) pair per step
+}
 
-def all_combinations(search_space: dict) -> list[dict]:
-    """Every combination of the listed values, one dict per trial.
-    """
+def _fmt(seconds: float) -> str:
+    m, s = divmod(int(seconds), 60)
+    return f"{m}m{s:02d}s"
+
+
+def all_combinations(search_space: dict, is_valid=None) -> list[dict]:
+    """Every combination of the listed values (minus any that is_valid rejects), one dict per trial."""
     names = list(search_space)
     value_lists = [search_space[name] for name in names]
-    
-    #An empty search space gives one trial with no changes, i.e. the defaults.
-    return [dict(zip(names, values)) for values in itertools.product(*value_lists)]
+    combos = [dict(zip(names, values)) for values in itertools.product(*value_lists)]
+
+    if is_valid is not None:
+        n_before = len(combos)
+        combos = [c for c in combos if is_valid(c)]
+        if n_before != len(combos):
+            print(f"  dropped {n_before - len(combos)} invalid combination(s)")
+    if not combos:
+        raise ValueError("no valid combinations in the search space")
+    return combos
+
+
+
+
+
+STOCHASTIC = {"ffnn", "lstm"}   # models whose result depends on the random seed
 
 
 def tune_model(model_name: str, cfg: dict, search_space: dict) -> dict:
-    """Try every combination in the search space and keep the best.
+    """Try every valid combination. For the neural networks, run each one once per seed.
 
-    Returns a dict with:
+        Returns a dict with:
         trials       one row per trial: model, trial, each setting, mean_relative_rmse_pct,
                      fit_seconds, predict_seconds, n_parameters
         best_params  the winning settings (written to best_params.yaml by the caller)
         bundle       the best trial's fitted bundle
         predictions  the best trial's validation predictions
         metrics      the best trial's per-reservoir validation scores
+
+    A trial's score is the mean relative RMSE across seeds; its epochs is the median best epoch.
+    The saved bundle/predictions come from the seed whose score is closest to the trial mean (not the best seed, which would be cherry-picking). 
+    The saved metrics are averaged over seeds.
     """
-    combos = all_combinations(search_space)
-    print(f"{model_name}: {len(combos)} trial(s)")
+
+    defaults = cfg["models"][model_name]
+    rule = CONSTRAINTS.get(model_name)
+    is_valid = (lambda c: rule({**defaults, **c})) if rule else None
+    combos = all_combinations(search_space, is_valid)
+
+    seeds = cfg["nn_seeds"] if model_name in STOCHASTIC else [cfg["seed"]]
+    print(f"{model_name}: {len(combos)} trial(s) x {len(seeds)} seed(s)")
+
+    start = time.perf_counter()
 
     rows = []
     best = None
+
+
     for i, combo in enumerate(combos):
-        # A copy of the config with this trial's values in place of the defaults.
-        trial_cfg = copy.deepcopy(cfg)        # deepcopy so one trial's changes can never leak into the next.
-        trial_cfg["models"][model_name].update(combo)
+        runs = []
+        for seed in seeds:
+            trial_cfg = copy.deepcopy(cfg)
+            trial_cfg["seed"] = seed                      # fit_model() calls set_seed(cfg["seed"])
+            trial_cfg["models"][model_name].update(combo)
 
-        predictions, cost, bundle = run_model(model_name, trial_cfg, final=False)
-        metrics = evaluate(predictions)
-        score = mean_relative_rmse(metrics)
+            predictions, cost, bundle = run_model(model_name, trial_cfg, final=False)
+            metrics = evaluate(predictions)
+            runs.append({"seed": seed, "predictions": predictions, "cost": cost, "bundle": bundle,
+                         "metrics": metrics, "score": mean_relative_rmse(metrics),
+                         "best_epoch": getattr(bundle["model"], "best_epoch_", None)})
 
-        # Settings worth recording for this trial
+        scores = np.array([r["score"] for r in runs])
+        mean_score = float(scores.mean())
+
         params = dict(combo)
-        # NNs will also report the epoch where early stopping found the lowest validation loss
-        best_epoch = getattr(bundle["model"], "best_epoch_", None)
-
-        if best_epoch is not None:
-            params["epochs"] = int(best_epoch)
+        epochs = [r["best_epoch"] for r in runs if r["best_epoch"] is not None]
+        if epochs:
+            params["epochs"] = int(round(np.median(epochs)))
 
         rows.append({"model": model_name, "trial": i, **params,
-                     "mean_relative_rmse_pct": score,
-                     "fit_seconds": cost["fit_seconds"],
-                     "predict_seconds": cost["predict_seconds"],
-                     "n_parameters": cost["n_parameters"]})
-        print(f"  trial {i}: {params or '(defaults)'} -> mean relative RMSE {score:.2f}%")
+                     "mean_relative_rmse_pct": mean_score,
+                     "score_std_pct": float(scores.std(ddof=1)) if len(scores) > 1 else 0.0,
+                     "n_seeds": len(seeds),
+                     # per-fit averages; the cost table multiplies by n_seeds for total tuning time
+                     "fit_seconds": float(np.mean([r["cost"]["fit_seconds"] for r in runs])),
+                     "predict_seconds": float(np.mean([r["cost"]["predict_seconds"] for r in runs])),
+                     "n_parameters": runs[0]["cost"]["n_parameters"]})
+        
+        elapsed = time.perf_counter() - start
+        eta = elapsed / (i + 1) * (len(combos) - i - 1)
+        print(f"  [{i + 1}/{len(combos)}] {params or '(defaults)'} -> {mean_score:.2f}% "
+              f"(sd {rows[-1]['score_std_pct']:.2f}) | best so far "
+              f"{min(r['mean_relative_rmse_pct'] for r in rows):.2f}% | "
+              f"elapsed {_fmt(elapsed)}, ETA {_fmt(eta)}", flush=True)
+        print(f"  trial {i}: {params or '(defaults)'} -> {mean_score:.2f}% (sd {rows[-1]['score_std_pct']:.2f})")
 
-        #update best if RMSE is lower than the previous best (or if this is the first trial)
-        if best is None or score < best["score"]:
-            best = {"score": score, "best_params": params, "bundle": bundle,
-                    "predictions": predictions, "metrics": metrics}
+        if best is None or mean_score < best["score"]:
+            rep = min(runs, key=lambda r: abs(r["score"] - mean_score))   # representative seed
+            avg_metrics = sum(r["metrics"] for r in runs) / len(runs)     # same index/columns each run
+            avg_metrics["n"] = avg_metrics["n"].astype(int)
+            best = {"score": mean_score, "best_params": params, "bundle": rep["bundle"],
+                    "predictions": rep["predictions"], "metrics": avg_metrics}
 
     print(f"  best: {best['best_params'] or '(defaults)'} ({best['score']:.2f}%)")
     return {"trials": pd.DataFrame(rows), **best}

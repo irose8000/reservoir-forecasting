@@ -128,25 +128,31 @@ def plot_metric_bars(metrics_by_model: dict[str, pd.DataFrame], metric: str = "r
     return fig
 
 
-def plot_cost_vs_accuracy(costs: pd.DataFrame, title: str = "") -> plt.Figure:
-    """Tuning time (log scale) against mean relative RMSE, one labelled point per model.
+def plot_cost_vs_accuracy(costs: pd.DataFrame, title: str = "",
+                          x_col: str = "tuning_seconds",
+                          x_label: str = "Total tuning time (s, log scale)",
+                          y_label: str = "Mean relative RMSE, validation (%)",
+                          yerr_col: str | None = None) -> plt.Figure:
+    """Cost (log scale) against mean relative RMSE, one labelled point per model.
+
+    yerr_col: optional column with the spread across seeds, drawn as a vertical error bar.
     """
     fig, ax = plt.subplots(figsize=(6, 4))
     for model, row in costs.iterrows():
-        ax.scatter(row["tuning_seconds"], row["mean_relative_rmse_pct"], s=60,
-                   color=_colour(model), edgecolor="white", linewidth=1.5, zorder=3)
-        ax.annotate(model, (row["tuning_seconds"], row["mean_relative_rmse_pct"]),
-                    xytext=(6, 4), textcoords="offset points", fontsize=8)
-    ax.set_xscale("log")    # times can range from milliseconds (naive) to minutes (NNs)
-    # Plain numbers on the log axis (0.02 rather than 2x10^-2)
-    # labelled only at 1, 2 and 5 of each power of ten so labels never crowd, and room for point labels at the edges.
+        x, y = row[x_col], row["mean_relative_rmse_pct"]
+        if yerr_col and yerr_col in costs.columns and row[yerr_col] > 0:
+            ax.errorbar(x, y, yerr=row[yerr_col], fmt="none", ecolor=_colour(model),
+                        capsize=3, linewidth=1.2, zorder=2)
+        ax.scatter(x, y, s=60, color=_colour(model), edgecolor="white", linewidth=1.5, zorder=3)
+        ax.annotate(model, (x, y), xytext=(6, 4), textcoords="offset points", fontsize=8)
+    ax.set_xscale("log")
     ax.xaxis.set_major_locator(LogLocator(subs=(1, 2, 5)))
     ax.xaxis.set_major_formatter(FuncFormatter(lambda value, _: f"{value:g}"))
     ax.xaxis.set_minor_formatter(NullFormatter())
     ax.margins(x=0.2, y=0.15)
 
-    ax.set_xlabel("Total tuning time (s, log scale)", fontsize=9)
-    ax.set_ylabel("Mean relative RMSE, validation (%)", fontsize=9)
+    ax.set_xlabel(x_label, fontsize=9)
+    ax.set_ylabel(y_label, fontsize=9)
     _style(ax)
     if title:
         ax.set_title(title, fontsize=11)

@@ -2,34 +2,35 @@ models:
   naive: {}
   mlr:
     n_lags: 2
-    n_rain_lags: 2
+    n_rain_lags: 3
   svr:
-    n_lags: 2
-    n_rain_lags: 2
-    C: 1.0
+    n_lags: 1
+    n_rain_lags: 1
+    C: 10
     epsilon: 0.01
-    gamma: scale
+    gamma: 0.01
   sarima:
     order:
+    - 2
     - 1
-    - 1
-    - 1
+    - 0
     seasonal_order:
     - 1
     - 0
     - 0
     - 12
   lstm:
-    n_lags: 2
-    n_rain_lags: 2
+    n_lags: 1
+    n_rain_lags: 1
     hidden_size: 32
+    num_layers: 2
     learning_rate: 0.001
-    epochs: 26
+    epochs: 111
   ffnn:
-    n_lags: 2
+    n_lags: 1
     n_rain_lags: 2
     hidden_sizes:
-    - 32
     - 16
-    learning_rate: 0.001
-    epochs: 114
+    learning_rate: 0.003
+    batch_size: 16
+    epochs: 74

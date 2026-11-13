@@ -10,8 +10,8 @@ from forecast.models.neural_networks.trainer import count_parameters, to_tensor,
 
 def build_ffnn(n_inputs: int, hidden_sizes: list[int]) -> nn.Sequential:
     """Input -> [Linear -> ReLU] per hidden layer -> Linear(1)."""
-    layers, width = [], n_inputs
-    for size in hidden_sizes:
+    layers, width = [], n_inputs    # width is the number of neurons in the previous layer, starting with n_inputs and updated at each iteration
+    for size in hidden_sizes:       # number and size of hidden layers can be tuned 
         layers += [nn.Linear(width, size), nn.ReLU()]
         width = size
     layers.append(nn.Linear(width, 1))       # one output: fraction full next month
@@ -32,7 +32,7 @@ class FFNN:
         self.net = None
         self.best_epoch_ = None   # set by fit(); tuning.py records it as `epochs`
 
-    def fit(self, train: pd.DataFrame, val: pd.DataFrame | None = None) -> "FFNN":
+    def fit(self, train: pd.DataFrame, val: pd.DataFrame | None = None) -> "FFNN":      #val is expected to be a dataframe or None, with default as None
         # Built fresh for each fit, after set_seed(), so the starting weights are repeatable.
         self.net = build_ffnn(len(self.feature_cols), self.hidden_sizes)
 

@@ -43,6 +43,10 @@ FINAL_METRICS = RESULTS_FINAL / "metrics"
 FINAL_FIGURES = RESULTS_FINAL / "figures"
 
 
+RESULTS_DEMO = RESULTS / "demo"
+DEMO_METRICS = RESULTS_DEMO / "metrics"
+DEMO_FIGURES = RESULTS_DEMO / "figures"
+
 
 # Data sources
 SAWATER_API_URL = "https://data.sa.gov.au/data/api/3/action/package_show"

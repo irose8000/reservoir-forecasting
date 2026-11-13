@@ -1,9 +1,10 @@
 # Values to try for each model. Every combination is one tuning trial.
 # Round 1: a single value per setting (one trial per model, using the defaults).
+
 models:
   naive:  {}                                   # nothing to tune: one trial with its defaults
-  sarima: {order: [[1, 1, 1]], seasonal_order: [[1, 0, 0, 12]]}
-  mlr:    {n_lags: [2], n_rain_lags: [2]}
-  svr:    {n_lags: [2], n_rain_lags: [2], C: [1.0], epsilon: [0.01], gamma: [scale]}
-  ffnn:   {n_lags: [2], n_rain_lags: [2], hidden_sizes: [[32, 16]], learning_rate: [0.001]}
-  lstm:   {n_lags: [2], n_rain_lags: [2], hidden_size: [32], learning_rate: [0.001]}
+  sarima: {order: [[1,1,1],[0,1,1],[2,1,0],[1,1,0]], seasonal_order: [[1,0,0,12]]}
+  mlr:    {n_lags: [1,2,3], n_rain_lags: [1,2,3]}
+  svr:    {n_lags: [1,2,3], n_rain_lags: [1,2,3], C: [0.1,1,10,100], epsilon: [0.001,0.01,0.05], gamma: [scale, 0.01, 0.1]}
+  ffnn:   {n_lags: [1,2,3], n_rain_lags: [1,2,3], hidden_sizes: [[16],[32,16],[64,32]], learning_rate: [0.0003,0.001,0.003], batch_size: [16,32]}
+  lstm:   {n_lags: [1,2,3], n_rain_lags: [1,2,3], hidden_size: [16,32,64], num_layers: [1,2], learning_rate: [0.0003,0.001,0.003]}
