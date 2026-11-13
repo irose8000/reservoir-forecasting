@@ -1,2 +1,2 @@
-model,trial,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
-naive,0,47.06750059732708,1.00000761449337e-06,0.015010400005849078,0
+model,trial,mean_relative_rmse_pct,score_std_pct,n_seeds,fit_seconds,predict_seconds,n_parameters
+naive,0,47.06750059732708,0.0,1,2.300017513334751e-06,0.04804560000775382,0

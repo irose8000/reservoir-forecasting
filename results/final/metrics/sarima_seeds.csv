@@ -1,0 +1,2 @@
+model,seed,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+sarima,42,11.141984796148726,1.0782267999602482,0.08447830000659451,40

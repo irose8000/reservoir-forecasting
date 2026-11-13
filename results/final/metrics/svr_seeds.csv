@@ -1,0 +1,2 @@
+model,seed,mean_relative_rmse_pct,fit_seconds,predict_seconds,n_parameters
+svr,42,10.83563546578307,0.029914500017184764,0.004507299978286028,638
