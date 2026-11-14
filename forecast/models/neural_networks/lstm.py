@@ -33,12 +33,16 @@ class LSTM:
         frac_lags = [c for c in feature_cols if c.startswith("frac_lag")]
         rain_lags = [c for c in feature_cols if c.startswith("rain_lag")]
         # if frac_lags and rain_lags are not the same length, the LSTM cannot be built because it expects a sequence of pairs (frac, rain) for each lag
-        if len(frac_lags) != len(rain_lags):
+        
+        # (No rainfall at all is allowed: that is the rainfall ablation, and each step is then volume only.)
+        if rain_lags and len(frac_lags) != len(rain_lags):
             raise ValueError(f"lstm needs n_rain_lags == n_lags (got {len(rain_lags)} and {len(frac_lags)})")
 
         n = len(frac_lags)
         # Oldest month first: lag n-1, ..., lag 0
-        self.step_cols = [[f"frac_lag{k}", f"rain_lag{k}"] for k in reversed(range(n))]
+        # Each step is (frac, rain), or just (frac,) in the rainfall ablation
+        self.step_cols = [[f"frac_lag{k}"] + ([f"rain_lag{k}"] if rain_lags else []) for k in reversed(range(n))]
+
         self.static_cols = [c for c in feature_cols if c not in frac_lags + rain_lags]
 
         self.hidden_size, self.num_layers = int(hidden_size), int(num_layers)
@@ -54,7 +58,7 @@ class LSTM:
 
     def fit(self, train: pd.DataFrame, val: pd.DataFrame | None = None) -> "LSTM":
         # Built fresh for each fit, after set_seed(), so the starting weights are repeatable.
-        self.net = LSTMNet(n_step_inputs=2, n_static=len(self.static_cols),
+        self.net = LSTMNet(n_step_inputs=len(self.step_cols[0]), n_static=len(self.static_cols),
                            hidden_size=self.hidden_size, num_layers=self.num_layers)
 
         train_x = self._inputs(train)

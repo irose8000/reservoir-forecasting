@@ -17,6 +17,19 @@ from forecast.pipeline import run_model
 from forecast.tune import STOCHASTIC
 
 
+# Rainfall ablation (--no-rain): only the feature-based models use rainfall, so only they are rerun.
+ABLATION_MODELS = ["mlr", "svr", "ffnn", "lstm"]
+ABLATION_DIR = configure.RESULTS / "ablation_no_rain"
+
+
+def use_ablation_folders() -> None:
+    """Point every final-results folder at results/ablation_no_rain/, so results/final/ is never overwritten."""
+    configure.FINAL_MODELS = ABLATION_DIR / "models"
+    configure.FINAL_PREDICTIONS = ABLATION_DIR / "predictions"
+    configure.FINAL_METRICS = ABLATION_DIR / "metrics"
+    configure.FINAL_FIGURES = ABLATION_DIR / "figures"
+
+
 def check_tuned(model_names: list[str]) -> None:
     """load_config() silently falls back to defaults for a missing model, so fail loudly instead."""
     with open(configure.BEST_PARAMS_PATH) as f:
@@ -100,10 +113,27 @@ def save_comparison() -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Refit on train + validation and score on test.")
     parser.add_argument("--models", nargs="+", help="model names to run (default: models.run in default.yaml)")
+    parser.add_argument("--no-rain", action="store_true",
+                        help="rainfall ablation: tuned settings with no rainfall inputs, saved to results/ablation_no_rain/")
     args = parser.parse_args()
 
     cfg = configure.load_config(use_best_params=True)       # defaults overlaid with the tuned settings
-    model_names = args.models or cfg["models"]["run"]
+    model_names = args.models or (ABLATION_MODELS if args.no_rain else cfg["models"]["run"])
+    check_tuned(model_names)
+
+    if args.no_rain:
+        not_feature_based = [m for m in model_names if m not in ABLATION_MODELS]
+        if not_feature_based:
+            raise SystemExit(f"--no-rain only applies to {ABLATION_MODELS}; {not_feature_based} use no rainfall")
+        for name in model_names:
+            cfg["models"][name]["n_rain_lags"] = 0          # everything else stays at its tuned value
+        use_ablation_folders()
+
+    # Make sure the output folders exist (fitted models are not committed to the repo)
+    for folder in (configure.FINAL_MODELS, configure.FINAL_PREDICTIONS,
+                   configure.FINAL_METRICS, configure.FINAL_FIGURES):
+        folder.mkdir(parents=True, exist_ok=True)
+
     check_tuned(model_names)
 
     start = time.perf_counter()

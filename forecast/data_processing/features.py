@@ -33,8 +33,9 @@ def build_features(df: pd.DataFrame, n_lags: int, n_rain_lags: int) -> tuple[pd.
 
     Returns (table, feature_columns). The table keeps identifying columns next to the inputs for traceability.
     """
-    if n_lags < 1 or n_rain_lags < 1:
-        raise ValueError("n_lags and n_rain_lags must be at least 1")
+    # n_rain_lags = 0 means no rainfall inputs at all (used by the rainfall ablation: 03_execute_models.py --no-rain)
+    if n_lags < 1 or n_rain_lags < 0:
+        raise ValueError("n_lags must be at least 1 and n_rain_lags at least 0")
 
     out = df.sort_values(["reservoir", "month"]).copy()
 
@@ -99,7 +100,15 @@ class RainScaler:
         """Learn the mean and standard deviation of rainfall from the given rows (training rows only)."""
         # One mean and std across ALL stations and months (global scaling)
         # That way, differences between stations survive scaling (e.g. a wetter station keeps higher scaled values.)
-        values = df[self._rain_cols(df)].to_numpy().ravel()
+
+        cols = self._rain_cols(df)
+        # No rainfall columns (rainfall ablation): nothing to learn, so store an identity scaling (mean 0, std 1)
+        if not cols:
+            self.mean_, self.std_ = 0.0, 1.0
+            return self
+
+        values = df[cols].to_numpy().ravel()
+
         self.mean_ = float(np.mean(values))
         self.std_ = float(np.std(values))
 
@@ -120,6 +129,9 @@ class RainScaler:
         # Work on a copy so the inputted table is never changed by surprise.
         out = df.copy()
         cols = self._rain_cols(out)
+
+        if not cols:            # rainfall ablation: nothing to scale
+            return out
 
         # The same mean and std (learned from the training rows) are applied to every row passed in, including validation and test 
         out[cols] = (out[cols] - self.mean_) / self.std_
